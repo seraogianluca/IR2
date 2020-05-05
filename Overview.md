@@ -4,12 +4,10 @@
 
 frase motivazionale.
 Proposte:
-- Working everyday to make your life better.
 - Innovation at your service.
-- Live your life better.
 - Enjoy your home.
-
 - Live smart live clean
+
 
 >Smart cleaning
 Best cleaning
@@ -57,10 +55,7 @@ cleaning and personal domestic assistance
 
 - aspirapolvere
 - cencioso
-- aircleaner/smart airconditioner
-
 - taglia erba
-
 
 - lavatrice
 - asciugatrice
@@ -74,10 +69,7 @@ cleaning and personal domestic assistance
 - lettiera intelligente
 - maggiordomo robot per anziani
 - pulisci vetri
-- braccio masturbatore
-- planetaria fica
-- fica robot auto lubrificata
-- bambola gonfiabile smart con interazioni impostabili dall'app
+- planetaria 
 
 
 idea di fondo:
