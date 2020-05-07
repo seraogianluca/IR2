@@ -3,14 +3,19 @@ Both types of firms will be described in their operations, financial and marketi
 
 # Roles and Corresponding Deliverables of the Group Members of Client Firms
 **Project Manager:**
+
 Statement of Work including:
-    -	Background
-    -	Scope (collecting detailed requirements from all the functional areas) 
-    -	Key Milestones
-    -	WBS up to level 2
-    -	Desired budget
+
+- Background
+- Scope (collecting detailed requirements from all the functional areas)
+- Key Milestones
+- WBS up to level 2
+- Desired budget
+
 **Marketing Director** 
+
 **Finance Director** 
+
 **Operations Director**
 
 # Firms
