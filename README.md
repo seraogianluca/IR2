@@ -8,7 +8,7 @@ The project work for the Business & Project Management course in 2020 requests t
 
 Both types of firms will be described in their operations, financial and marketing domains according to assumptions made by the students in line with the theory studied in class. Moreover, each client firm will be assigned a multi-functional issue that needs to be solved through a software solution. For this they will produce a SoW that will be taken up by the software houses. Each software house will be assigned two client firms by the professors for which to prepare a proposal answering their multi-functional software needs. Each group will prepare a document that will have as object the assigned company according to the roles assigned and the company type.
 
-**Detailed information about our specific assignment at:** (Assignment)[/Assignment.md]
+**Detailed information about our specific assignment at:** !(Assignment)[/Assignment.md]
 
 ## Group members and credits
 @matildao-pane, @thorongil05, @ragnar1002, @seraogianluca.
