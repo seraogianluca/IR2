@@ -14,9 +14,9 @@ Statement of Work including:
 
 **Marketing Director(@matildao-pane):** 
 
-**Finance Director(@ragnar1002)** 
+**Finance Director(@ragnar1002):** 
 
-**Operations Director(@thorongil05)**
+**Operations Director(@thorongil05):**
 
 # Assigned firm
 IR2 is a company that builds household robots for cleaning and personal domestic assistance. They rely on very advanced and high-performing R&D process with multiple collaborations with leading global robotics institutes. Their strength is in sensors, software, and design, while they outsource the manufacturing of the external and mechanical structures of the robots. The assembly and testing are then performed in-house. Their sales occur through large retail stores such as Mediaworld as well as through their online sales channels. Their brand as well as reputation for quality is their main strength on the market.
