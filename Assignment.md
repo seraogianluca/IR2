@@ -2,7 +2,7 @@
 Both types of firms will be described in their operations, financial and marketing domains according to assumptions made by the students in line with the theory studied in class. Moreover, each client firm will be assigned a multi-functional issue that needs to be solved through a software solution. For this they will produce a SoW that will be taken up by the software houses. Each software house will be assigned two client firms by the professors for which to prepare a proposal answering their multi-functional software needs. 
 
 # Roles and Corresponding Deliverables of the Group Members of Client Firms
-**Project Manager (@seraogianluca):**
+**Project Manager(@seraogianluca):**
 
 Statement of Work including:
 

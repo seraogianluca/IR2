@@ -1,3 +1,5 @@
+Problemone: how to manage big data associated to their R&D output, combining it with feedback gathered from customer reviews and experiences to improve their innovation efforts
+
 # IR2 Overview
 
 IR2 is an italian company that builds household robots for cleaning and personal domestic assistance, in particular we focus our effort in selling cleaning robots. Our strength is in the quality of design, sensors and software that charaterize the products.
@@ -8,12 +10,11 @@ IR2 was born in the late 90s in Pisa thanks to the intuition of 4 former student
 Their idea was based on the application of IT technologies to improve the domestic life of people.
 In the early 2000 the company has grown incredibly and has became famous for the quality of its products, gaining the trust of its consumers. 
 Actually our headquarter is based in Milan.
+
 <!-- -->
 <!-- How many factories? -->
 <!-- Where are the factories? -->
 <!-- How many employees? -->
-
-
 <!-- How is the team? -->
 
 ### Our Products
@@ -96,3 +97,21 @@ prodotti smart + piattaforma x la smart house (HOME ASSISTANT ES) voglio aggiugn
 
 apple-samsung della casa
 
+
+
+for the preparation of the request for proposal and this in input are at least 2 elem:
+1-background documentation per esempio supponete che volete a sistem like the one described by deloitte for reporting is a different business if you want to report on a volume of production that is 2 billion euro per year or 1 milloon euro or smalla company, un must give the background information and once you given that you have to ask for the software solution that must consist with your requirements you need to give elements of your company so if you are in the marketing you ..
+-how many clients you have? 
+-where are they?
+-what is the average purchase?
+-how frewunt they buy ?
+-how you feel the inventory .. 
+-you need a solution to do what? and do what depens on: 
+-what is your own business function preparation, marketing op e finance. senza questi nn c'è point of askinf for the software xk senno loro nn so in grado di fare una soluzioen xk nn capiscono i requirement ne il bakcground.
+2- il second point is the use case 
+-how will you use the software? 
+-you will use daily, more that daily? 
+-how many people and who will use it? solo i marketing? solo il directior? gli analist? 
+-che formato vogliamo? database? score board? graphs? 
+-how frequent you want report, daily, weekly reports?  
+-queste info will be critical xk la sotware company capira in quali condizione you using the sitfware solution
