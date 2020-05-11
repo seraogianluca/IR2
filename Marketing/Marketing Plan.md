@@ -57,7 +57,7 @@ vediamo che ci dicono gli operational.
 
  geographics
  -country: italy and europe
- -city : big cities where to locate the stores
+ -city and density: sell in large retail stores located in big cities and most populated areas
  
  demographics:
  -age: young adult, adult
@@ -93,9 +93,41 @@ Focusing on the Political, Economical, Social, and Technological factors at play
  ## 3.1 Customers Segmentation
  ## 3.2 Customers Needs
  ## 3.3 Technologies
+
+
  # 4. Porter's Five Forces Model
 Porter’s Five Forces Analysis
 This method is used to determine whether a new product or service will be profitable. It focuses on evaluating supplier power, buyer power, competitive rivalry, threat of substitution, and threat of new entry.
+
+## Barriers to entry
+## Rivalry among competitors
+## Substitute products
+## Bargaining power of consumers
+## Bargaining power of suppliers
+
+
+# 5. Product Line
+IR2 sells high quality and innovative cleaning robots.
+The products are subdivided into two different product lines: IR2DOlly and IR2MOlly. 
+The first one is a robot vacuum-cleaner and the second one is a robot mop.
+Both the lines offer different versions of each product, 
+
+
+/////
+We offer two version for each product, the ultimate version and the previous one. (???)
+(ASPIRAPOLVERE E CENCIO    UNO VECCHIO UNO NUOVO   E PER QUELLO DI ULTIMA GENEREAZIONE LA POSSIBILITà DI SCEGLIERE DIVERSE POTENZE? LA PERSONALIZZAZIONE????)
+versione standard con caratteristiche rpefissate, quella nuova dove scelgo
+grandezza serbatoio, motore per il vacuum , cencio serbatoio autonomia dimensione serbatoio e autonomia batteria
+dimensioni 2 taglie 
+Besides the main products we also give the possibility to buy replacement accessories (vaccum: spazzole laterali, filtri, telecomando infrarosso, virtual wall, ; mop: batteries, panni di microfibra per diversi tipi di pavimento, base di ricarica di diversi tipi turbo e non turbo, piastra di ricambio(?) )
+Our actual products in the market are listed below.
+Vacuum cleaners | Mops 
+-------------- | ----------
+Molly 2.0  | Dolly 2.0
+Molly 1.0  | Dolly 1.0
+...|...
+////
+
 ------------------
 
 
