@@ -9,7 +9,7 @@
 - Vendor rating model
 - KPI
 - Quality assurance policy and plan
-- Manufacturing (Layout, Master Production Scheduling, Weekly production planning, Quality assurance implementation) 
+- Manufacturing (Layout, Master Production Scheduling, Weekly production planning, Quality assurance implementation)
 - Input to the RFP and RFQ
 
 ## Logistic and Warehouse
