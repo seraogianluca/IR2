@@ -100,11 +100,12 @@ apple-samsung della casa
 
 
 for the preparation of the request for proposal and this in input are at least 2 elem:
-1-background documentation per esempio supponete che volete a sistem like the one described by deloitte for reporting is a different business if you want to report on a volume of production that is 2 billion euro per year or 1 milloon euro or smalla company, un must give the background information and once you given that you have to ask for the software solution that must consist with your requirements you need to give elements of your company so if you are in the marketing you ..
+1-background documentation per esempio supponete che volete a sistem like the one described by deloitte for reporting is a different business if you want to report on a volume of production that is 2 billion euro per year or 1 milloon euro or smalla company, un must give the background information and once you given that 
+-you have to ask for the software solution that must consist with your requirements you need to give elements of your company so if you are in the marketing you ..
 -how many clients you have? 
 -where are they?
 -what is the average purchase?
--how frewunt they buy ?
+-how freequnt they buy ?
 -how you feel the inventory .. 
 -you need a solution to do what? and do what depens on: 
 -what is your own business function preparation, marketing op e finance. senza questi nn c'è point of askinf for the software xk senno loro nn so in grado di fare una soluzioen xk nn capiscono i requirement ne il bakcground.
