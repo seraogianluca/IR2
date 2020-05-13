@@ -4,15 +4,19 @@
 
 ## Table of contents:
 1) [Introduction](#1-introduction)
-2) [Market Analysis](#2-market-analysis)
-3) [Abell Model](#3-abell-model)
-4) [Porter's Five Forces Model](#4-porter's-five-forces-model)
-5) [Segmentation Strategy](#5-segmentation-strategy)
+2) [Market Analysis](#2-market-analysis)     (Demographic data, Food Consumption)
+3) [Competitive Analisys](#3-competitive-analisys)
+4) [Segmentation](#4-segmentation)
+5) [Distribution channels](#5-distribution-channels)
+- Product policy
+- Pricing (Benchmark with competitors, Mark up policy)
+8) [Communication](8#-commuication)          (Advertising budget, On-site promotion)
+- Monthly order forecast
+- Input to the RFP and RFQ
 
  # 1. Introduction
 
  # 2. Market Analysis
-
 <!--
 
 food consuption:
@@ -31,17 +35,89 @@ segmentation:
 -how much you believe the people will consume this data
 -puoi basarti su dati reali o fare assunzioni che siano coerenti e attinenti alla reltà based on this you do you marketing plan segmentation and competitive analisis and price propmotion product and place.
 
-
-
 -->
 
 
+## 2.1 Demographic data
 
- ## Demographic data
+## 2.2 Consumption
 
- ## Consumption
+# 3. Competitive Analisys
 
- ## Segmentation
+## 3.1 Competitive Analysis Matrix
+
+
+### positioning
+
+nicchia di mercato
+
+In economia la nicchia è una parte di mercato che la concorrenza non ha ancora raggiunto, o che essa ha parzialmente occupato, ma in maniera tale da non venire incontro soddisfacentemente alla domanda.
+
+Può consistere in una parte di clientela, oppure in un determinato tipo di prodotti. Le nicchie sono in genere degli spazi piccoli, spesso ricercati da piccole imprese. Dati i costi fissi e le dimensioni modeste di una nicchia di mercato, non è detto che la sua conquista comporti la necessaria redditività.
+
+
+differenziazione
+- unicità
+-brand recognition
+-high advertising
+-low visibility of price(high prices)
+
+
+
+
+## 3.2 SWOT Analysis
+The most common of business methods,SWOT stands for Strengths, Weaknesses, Opportunities, and Threats. This method identifies and plots all of the internal and external factors that may have either a positive or negative impact on the strategy.
+
+
+## Strengths:
+- High quality
+- Top design, it is not a product to hide, is something to show to define more your status
+- Top sensors, software
+- Constant commitment to innovation
+- Relationships with leading global robotic institutes
+
+## Weakness:
+- High price
+- Only italian national store, and european
+- Final price depends also on meccanical parts suppliers costs
+- No own production
+- Low variety of product choices
+
+## Opportunities:
+- Collaboration with more institutes
+- Global market growth
+- With the new feeedbakc aggregator-> more agile aprocach, more feedback from customersz
+- Start own supplier products production 
+
+## Threats:
+- huge amount of competitors
+- imitators of the products
+
+
+## 3.3  PESTE Analysis
+PEST Analysis
+Focusing on the Political, Economical, Social, and Technological factors at play, the PEST analysis is a variation of the SWOT analysis, and is often performed in preparation for a typical SWOT.
+
+# 3.4 Porter's Five Forces Model
+Porter’s Five Forces Analysis
+This method is used to determine whether a new product or service will be profitable. It focuses on evaluating supplier power, buyer power, competitive rivalry, threat of substitution, and threat of new entry.
+
+## Barriers to entry
+## Rivalry among competitors
+## Substitute products
+## Bargaining power of consumers
+## Bargaining power of suppliers
+
+# 3.5 Strategic Group Analisys
+
+# 3.6 Growth Share Matrix
+
+# 3.7 Perceptual Mapping
+  high quality e high price respect to the competitors
+ high tecnology and security of the customers(xiaomi chienese ci prende i dati)
+
+
+# 4. Segmentation
 
 OPZIONI: se metto anche il robot per i peli e ci punto a livello di ads, significa che come target aggiungo anche chi ha animali domestici,
 altrimenti nn uso differrent products, non pongo l'accento sul fatto degli animali domestici e mi concentro su un'unica versione.
@@ -51,9 +127,6 @@ vediamo che ci dicono gli operational.
  dobbiamo idividuare is egmenti che pe rnoi sono piu redditizzi i quali diventeranno per noi targeet markets
 
  B2C businees to consumers.A
-
-
-
 
  geographics
  -country: italy and europe
@@ -67,43 +140,25 @@ vediamo che ci dicono gli operational.
 
  psychographics:
  -lifestyle: dinamic people, single workers, worker parents with children, families with pets
- -personality: innovators, early adopters
+ -personality: innovators, early adopters, dynamic, fashionable
  
  behavioural:
- -benefits: benefits that they seek from the product
+ -benefits: look for a reliable product that avoid to take from them precious time to spend with the family or their hobbby and career.
  -usage: frequency that they seek from our product. daily, before going to work.
  
 Our customers
- i customers della ir sono famigli
+People 
+
 persone che si concentrano sul alvoro, famiglie con entrambi i genitori lavoratori, famiglie mononucleo che si concentrano su lavoro e vita sociale, famiglie medio-benestanti in cui entrambi i genitori alvorano fuori casa, per case grandi, per anziani con casa vuote e grandi, per piccole e medie imprese negozi di abiti, 
  chi ha animali in casa, con figli piccoli
 i customers hano bisogno di risparmiare tempo per concentrarsi sulla carriera e sulla loro vita sociale, tornare a casa e trovare una casa pulita dedicando il minimo sforso fisico a mentale a un attivita time consuming and stressfull,  che appena tornano a casa preferiscono rilssarsi o dedicare tempo ai figli e non alla puliza della casa 
 
- ## Perceptual Map
-  high quality e high price respect to the competitors
- high tecnology and security of the customers(xiaomi chienese ci prende i dati)
 
- ## 2.1 SWOT Analysis
- SWOT Analysis
-The most common of business methods,SWOT stands for Strengths, Weaknesses, Opportunities, and Threats. This method identifies and plots all of the internal and external factors that may have either a positive or negative impact on the strategy.
- ## 2.2 PESTE Analysis
-PEST Analysis
-Focusing on the Political, Economical, Social, and Technological factors at play, the PEST analysis is a variation of the SWOT analysis, and is often performed in preparation for a typical SWOT.
- # 3. Abell Model
- ## 3.1 Customers Segmentation
- ## 3.2 Customers Needs
- ## 3.3 Technologies
+ # . Abell Model
+ ## .1 Customers Segmentation
+ ## .2 Customers Needs
+ ## .3 Technologies
 
-
- # 4. Porter's Five Forces Model
-Porter’s Five Forces Analysis
-This method is used to determine whether a new product or service will be profitable. It focuses on evaluating supplier power, buyer power, competitive rivalry, threat of substitution, and threat of new entry.
-
-## Barriers to entry
-## Rivalry among competitors
-## Substitute products
-## Bargaining power of consumers
-## Bargaining power of suppliers
 
 
 # 5. Product Line
@@ -128,85 +183,41 @@ Molly 1.0  | Dolly 1.0
 ...|...
 ////
 
-------------------
-
-
- i robot domestici rappresentano una soluzione valida e molto pratica per poter pulire le nostre case senza fatica.
-
-Di fatto non v’è sensazione più bella che rientrare finalmente a casa propria, dopo una stressante giornata lavorativa, ed essere accolti dalla piacevole sensazione di pulito. Grazie alla sua sviluppata tecnologia, il robot pulizia casa, fornisce questa unica e meravigliosa sensazione.
-
-Anche per combattere le allergie e aiutare chi soffre di asma. Infatti, grazie all’utilizzo dei robot domestici possiamo liberarci della presenza degli acari, del polline. Ogni più che minimo granello di polvere sparirà da moquette, pavimenti e tappeti. In maniera constante, attenta, oculata 
-
-
-L’autonomia e il design
-Altro punto di forza da non dimenticare è poi la notevole autonomia. I robot aspirapolvere sono infatti in grado di pulire i pavimenti in maniera del tutto autonoma, e in alcuni casi non limitano la loro azione a poche stanze, ma si rivelano in grado di  pulire interamente un appartamento di piccole-medie dimensioni. Per effetto delle loro dimensioni ridotte e del design snello e compatto, riescono a raggiungere i punti più ostici, ovvero quelli che normalmente non si riesce a pulire con un aspirapolvere classico oppure con una scopa elettrica.
-
-I sensori ottici e la programmazione
-A volte il pavimento può rappresentare un ostacolo per chi debba pulire, rendendo necessario togliere di mezzo tutti gli eventuali ostacoli. Nel caso dei robot aspirapolvere questo non costituisce un problema, essendo dotati di sensori in grado di riconoscere la presenza di ingombri lungo il percorso, oltre che di pericolosi dislivelli che potrebbero causare la rovinosa caduta del dispositivo.
-Altro punto di forza è la possibilità di programmarli. In tal modo possono entrare in funzione quando l’abitazione si sarà svuotata e completare il loro compito prima del rientro degli abitanti.
 
 
 
+# 5. Distribution channels
+IR2 adopts two main distribution channels: online and large retail stores.
+
+The direct online retail is achieved trough the Corporate Site of the company: www.IR2.com 
+
+customers are also reached trough tree of the largest national retail chains like Mediaworld, Euronics and Unieuro. (SOLO LORO O ANCHE TRONY? O SOLO UNO? TIPO DYSON VENDE SOLO SUL SITO E SOLO SU EURONICS)
 
 
-
-commenti utenti:
-
-Si come no... Samsung e' proprio da dimenticare come profondita' di pulizia e area coperta, che non passa in diverse zone dove invece iRobot passa tranquillamente e piu' volte, neato funziona fino a quando la stanza rimane per com'e', e se ad esempio cambi disposizione delle sedie dopo la scansione o semplicemente sbatte sulla tua gamba, deve rifare la mappatura e lascia pure vuoti. il vantaggio dell'angolo retto per raggiungere gli angoli non funziona sempre; ha una potenza di aspirazione migliore ma non passa sullo stesso punto diverse volte come iRobot quindi la qualita' di pulizia complessivamente e' minore. iRobot inoltre e' piu' basso e passa sotto a divani ed altri mobili dove il Neato non passa...
-
-uso neato da due anni e come mappatura ed efficenza è spettacolare gira per tutta casa senza problemi, per contro di irobot ho un iRobot Braava 390t, purtroppo è abbastanza penoso, non si capisce come tracci il percorso ne si accorge con prontezza quando urta qualcosa, prova ad andare avanti per un pò fin quando non si decide a ricalcolare il percorso, rimpiango di non aver fatto il reso
+(MA SE SIAMO SOLO IN ITALI OK , MA SE VENDIAMO ANCHE IN EUROPA? E NEL MONDO? SIAMO GRANDI O NO?)
 
 
-posseggo da 1 anno un Roomba 966 ed è fantastico, non ho mai usato le altre marche
-randorama10 Novembre 2019, 22:08#5
-sulla fascia alta di roomba non saprei dire. io ho un 630 ed è un idiota; cozza contro qualunque cosa come un ubriaco.
-la mia vicina ha comprato uno xiaomi; pagato più o meno la stessa cifra, è un altro pianeta.
-MasterMosquiton11 Novembre 2019, 09:34#6
-Originariamente inviato da: randorama
-sulla fascia alta di roomba non saprei dire. io ho un 630 ed è un idiota; cozza contro qualunque cosa come un ubriaco.
-la mia vicina ha comprato uno xiaomi; pagato più o meno la stessa cifra, è un altro pianeta.
+# 8. Communication
 
+## Social media promotion
+Active accounts on Facebook and Instagram periodically publishing posts.
 
-Concordo pienamente, ho avuto pure io un iRobot serie 6 per un anno e ora ho uno Xiaomi stessa fascia di prezzo, il paragone è indecente.
-vale.asto11 Novembre 2019, 11:14#7
-Anche io volevo acquistare un Roomba ma senza spendere più di 300€, questi robot non sembrano ancora così economici come dice il fondatore di Irobot.
+## Instagram influencers ads: 
+One of our product strenghts is the design, is a design object that anybody interested in beauty and appearance want to show, is not to hide. We focus our promoting strategy also thinking about the idea of the person you want to be having this kind of product: an innovative person, well being, interested in the beauty of the things and in the continuos research of innovation and modernity, looking at the future, never stopping, always on movement, dinamic, focused in your goals.  (the iphone philosofy).
 
-Ma a quanto pare i Roomba che costano meno sono quelli della serie 600 e non sembrano così efficienti. Qualcuno di voi ha provato altri modelli di questa serie?
-bs8211 Novembre 2019, 14:54#8
-E continua a non capire che la forma rotonda non permette di pulire gli angoli, forme che in una casa sono onnipresenti. E la spazzolina rotante è qualcosa di così inutile contro la polvere vera!
-Andrea[MI-VA-CO]11 Novembre 2019, 18:57#9
-Originariamente inviato da: bs82
-E continua a non capire che la forma rotonda non permette di pulire gli angoli, forme che in una casa sono onnipresenti. E la spazzolina rotante è qualcosa di così inutile contro la polvere vera!
+Because of that tree years ago we started collaborating with some of the most influent people of the web, both in the fashion field, both in the technological and life style field.
 
-Link ad immagine (click per visualizzarla)
-ComputArte13 Novembre 2019, 01:54#10
-Tecnologia ...fedele!?
+## Online ads
+Partnership with Google to sponsor IR2 website trhought Google searchengine.
 
-Sicuramente uno "smart" hoover è utile, quando ben funzionante, ma ....MA ....vale la pena mettersi in casa una spia che mappa, e chissà quali altri dati sensibili "risucchia"!?!?!
+## Tv ads
+In the past TV was one of our main promotion channel. Nowadays we are more and more focusing in the online promotion, even if we keep putting modest effort in this channel.
 
-TUTTA la tecnologia "smart+cloud" è ingegnerizzata per spiare.
+## Promotion on the retail stores
+Retail stores have the possibility to lower the price in sales period, and promote the product trought their channels.
 
-....quando si leggono affermazioni nelle quali chi vende questi "accrocchi spioni" si spertica dicendo di rispettare e proteggere la privacy dell'utente ....ci sarebbe da ridere fino alle LACRIME ....amare....
+## Articles in technologies magazines (come ha fatto dyson)
+Our collaboration with robotic institutes give us the opportunity to release some articles about our software and sensors newest technologies in specialized magazines.
 
-
-Anche io volevo acquistare un Roomba ma senza spendere più di 300€, questi robot non sembrano ancora così economici come dice il fondatore di Irobot.
-
-Ma a quanto pare i Roomba che costano meno sono quelli della serie 600 e non sembrano così efficienti. Qualcuno di voi ha provato altri modelli di questa serie?
-
-
-Su quali basi quelli della serie 600 non sarebbero così efficienti?
-Le spazzole e il filtro sono identici per la gran parte dei modelli, quello che cambia sono le funzioni e opzioni disponibili in un modello e mancanti in quello inferiore. Ma l'efficienza di pulizia non viene inficiata.
-Io ne ho preso uno della serie 600 perché non mi interessavano le funzioni Wi-fi, l'app che quando sei fuori casa fai partire la pulizia (mi basta un telecomando, premo clean prima di uscire da casa e il robottino esce dal mobile TV dove è nascosto ed inizia a pulire) e altri ammennicoli vari. Pulisce benissimo! Dopo che hai passato l'aspirapolvere, se lo fai uscire puoi scommetterci che tira su ancora qualcosa.
-
-Originariamente inviato da: bs82
-E continua a non capire che la forma rotonda non permette di pulire gli angoli, forme che in una casa sono onnipresenti. E la spazzolina rotante è qualcosa di così inutile contro la polvere vera!
-
-
-https://www.smartworld.it/amazon/philips-smartpro-easy-robot-aspirapolvere-offerta-lampo-amazon.html
-
-https://www.hwupgrade.it/news/scienza-tecnologia/irobot-l-aspirapolvere-si-candida-a-maggiordomo-che-coordina-robot-e-oggetti-connessi-della-casa_85417.html
-
-
-https://gizchina.it/2020/02/roborock-s5-max-robot-aspirapolvere-offerta-spedizione-italia/
-
-https://www.elle.com/it/lifestyle/casa/a29986955/aspirapolvere-robot-migliori-2020/
+## Innovation fairs and release events
+We always attend innovation and tehcnology fairs held in Berlin, Barcellona, Milan, Tokio to expand our business and partnerships opportunities.
