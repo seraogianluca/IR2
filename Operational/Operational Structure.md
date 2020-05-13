@@ -42,6 +42,8 @@ In order to assembly a robot we need the following mechanical parts:
 - Power Supply
 
 These mechanical parts are provided by **external** suppliers.
+Our suppliers are firms of total trust: they have been our partners for years and at the beginning a contract of confidentiality has been estabileshed.
+After many years of collaboration the contract is still active but  
 
 ### Supplies cost
 
