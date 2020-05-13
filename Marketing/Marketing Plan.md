@@ -45,14 +45,38 @@ segmentation:
 # 3. Competitive Analisys
 
 ## 3.1 Competitive Analysis Matrix
+### competitors
+iRobot, Ecovacs, Proscenic, Matsutek, Neato Robotics, LG, Samsung, Sharp, Philips, Mamibot, Funrobot （MSI), Yujin Robot, Vorwerk, Infinuvo （Metapo）, Fmart, Xiaomi, Miele, ecc.
 
+I segmenti di mercato degli aspirapolvere robot globali per tipologia di prodotto includono:
+
+Sotto 150 USD
+150 USD a 300 USD
+Da 300 USD a 500 USD
+Superiore a 500 U
+
+L’applicazione può essere frammentata come segue:
+
+Domestico
+Commerciale
+
+
+Key Market Players
+iRobot (US), Neato Robotics (US), LG Electronics (South Korea), Samsung Electronics (South Korea), Ecovacs Robotics (China), Dyson (UK), Intellibot Robotics (US), Alfred Kärcher (Germany), ILIFE (China), bObsweep (Canada), Bissell Homecare (US), Miele (Germany), Cyberdyne (Japan), Vorwerk (Germany), Monoprice (US), Tennant Company (US), AMANO Corporation (Japan), Makita Corporation (Japan), Gaussian Robotics (Singapore), Brain Corporation (US), ADLATUS Robotics GmbH (Germany), and Avidbots Corp. (Canada)
+
+iRobot is a market leader in the cleaning robot market. The company’s product portfolio consists of home-cleaning and pool-cleaning robots. The company mainly invests in R&D to develop new technologies for its home robots, which have resulted in increased sales and revenue growth. Also, it aims to continue focusing on brand awareness and customer conversion. The company updates and launches new products in line with the ongoing technological advancements in the IoT and smart homes space to expand its customer base. iRobot has witnessed significant sales growth in China because of the strong demand for multiple product ranges. In line with this, the company intends to continue to focus on China to cater to the needs of its customers. iRobot Corporation plans to not only increase penetration of its products in the existing markets but also promote its existing products in new markets. The company also aims to develop and launch new products in current and adjacent markets. Its prime strategy is to maintain a leadership position by delivering robotic technology-based remote presence and automated home maintenance solutions, while extending technical leadership in the areas of autonomous navigation, manipulation, and cloud connectivity and services.  
+
+Recent Developments
+In October 2018, iRobot announced a collaboration with Google with the aim of integrating its robots with Google’s AI assistant to advance the next-generation of smart homes.
+In September 2018, iRobot announced the launch of Roomba i7+, a robotic vacuum that not only remembers a home’s floor plan and cleans rooms but also automatically empties itself.
+In August 2018, Neato Robotics launched 2 new robot vacuums, Botvac D4 Connected and Botvac D6 Connected. The robots are enabled with LaserSmart feature, which optimizes the mapping and navigation capabilities of the robots.
+In August 2018, Ecovacs Robotics launched ECOVACS AIVI (Artificial Intelligence and Visual Interpretation) function. The advanced AI-enabled function is designed to meet the growing consumer demand for minimal manual intervention during cleaning by introducing object/environmental recognition in addition to spatial recognition.
+In October 2017, Samsung introduced a Star Wars themed, limited edition version of the POWERbot VR7000.
 
 ### positioning
 
-nicchia di mercato
-
+nicchia di mercato:
 In economia la nicchia è una parte di mercato che la concorrenza non ha ancora raggiunto, o che essa ha parzialmente occupato, ma in maniera tale da non venire incontro soddisfacentemente alla domanda.
-
 Può consistere in una parte di clientela, oppure in un determinato tipo di prodotti. Le nicchie sono in genere degli spazi piccoli, spesso ricercati da piccole imprese. Dati i costi fissi e le dimensioni modeste di una nicchia di mercato, non è detto che la sua conquista comporti la necessaria redditività.
 
 
@@ -61,7 +85,15 @@ differenziazione
 -brand recognition
 -high advertising
 -low visibility of price(high prices)
+"un'impresa si differenzia dai suoi concorrenti quando fornisce qualcosa di unico, che abbia valore per i suoi acquirenti al di là della semplice offerta di un prezzo basso" (Porter, 1985). Affinché dunque un prodotto sia differenziato occorre che sia in qualche modo unico, abbia cioè caratteristiche reali o percepite non riscontrabili negli altri prodotti presenti sul mercato, e che tali caratteri abbiano un qualche valore per gli acquirenti, rappresentino qualcosa per cui gli acquirenti siano disposti a pagare. La differenza massima di prezzo che il produttore può in questo modo "imporre" viene chiamata 'premium price' .
 
+Il premium Price è inteso come:
+
+1) maggiore prezzo che il cliente è disposto a pagare rispetto al prezzo dei concorrenti
+
+2) maggiore quantità di prodotto acquistata dal cliente( es. Acquisto di 2 confezioni di prodotto)
+
+3) maggiore fedeltà, intesa come costanza degli acquisti del cliente nel tempo
 
 
 
@@ -70,6 +102,7 @@ The most common of business methods,SWOT stands for Strengths, Weaknesses, Oppor
 
 
 ## Strengths:
+- Brand reputation
 - High quality
 - Top design, it is not a product to hide, is something to show to define more your status
 - Top sensors, software
@@ -113,53 +146,74 @@ This method is used to determine whether a new product or service will be profit
 # 3.6 Growth Share Matrix
 
 # 3.7 Perceptual Mapping
-  high quality e high price respect to the competitors
- high tecnology and security of the customers(xiaomi chienese ci prende i dati)
+high quality e high price respect to the competitors
+high tecnology and security of the customers(xiaomi chienese ci prende i dati)
 
 
-# 4. Segmentation
+# 4. Market Segmentation
 
+The cleaning robot market can be segmented on the basis of product, end-use application and geography. 
+
+On the basis of product type, the cleaning robot market can be categorized into:
+- pool robot,
+- window robot,
+- floor robot, 
+- lawn robot. 
+
+Based on the end-use verticals, the cleaning robot market can be segmented into:
+- residential,
+- commercial,
+- industrial,
+- and healthcare applications. 
+
+Furthermore, on the basis of geography, the cleaning robot market is classified into five major regions:
+- North America,
+- Asia Pacific,
+- Europe,
+- Middle East
+- Africa, 
+-Latin America. 
+
+North America is the most dominant market for cleaning robots owing to the presence of well-established cleaning robot manufacturers and high labor cost.
+
+## Targeting
+
+IR2 focus the strenght in floor robot, for residential and commercial use in the Europe region.
+
+
+## Customer Segmentation
 OPZIONI: se metto anche il robot per i peli e ci punto a livello di ads, significa che come target aggiungo anche chi ha animali domestici,
 altrimenti nn uso differrent products, non pongo l'accento sul fatto degli animali domestici e mi concentro su un'unica versione.
 vediamo che ci dicono gli operational.
 
- segmentation strategy: the market is divided in customer group named segments that share some specifi charateristics. (shared needs, common interest, similar lifestyle, simila demographic profile)
- dobbiamo idividuare is egmenti che pe rnoi sono piu redditizzi i quali diventeranno per noi targeet markets
+geographics
+- country: italy and europe
+- city and density: sell in large retail stores located in big cities and most populated areas
 
- B2C businees to consumers.A
+demographics:
+- age: young adult, adult
+- income: medium-high
+- family: both families and single workers
+- occupation: workers 
+psychographics:
+- lifestyle: dinamic people, single workers, worker parents with children, families with pets
+- personality: innovators, early adopters, dynamic, fashionable
 
- geographics
- -country: italy and europe
- -city and density: sell in large retail stores located in big cities and most populated areas
+behavioural:
+- benefits: look for a reliable product that avoid to take from them precious time to spend with the family or their hobbby and career.
+- usage: frequency that they seek from our product. daily, before going to work.
  
- demographics:
- -age: young adult, adult
- -income: medium-high
- -family: both families and single workers
- -occupation: workers 
-
- psychographics:
- -lifestyle: dinamic people, single workers, worker parents with children, families with pets
- -personality: innovators, early adopters, dynamic, fashionable
- 
- behavioural:
- -benefits: look for a reliable product that avoid to take from them precious time to spend with the family or their hobbby and career.
- -usage: frequency that they seek from our product. daily, before going to work.
- 
-Our customers
-People 
+## Our customers
 
 persone che si concentrano sul alvoro, famiglie con entrambi i genitori lavoratori, famiglie mononucleo che si concentrano su lavoro e vita sociale, famiglie medio-benestanti in cui entrambi i genitori alvorano fuori casa, per case grandi, per anziani con casa vuote e grandi, per piccole e medie imprese negozi di abiti, 
  chi ha animali in casa, con figli piccoli
 i customers hano bisogno di risparmiare tempo per concentrarsi sulla carriera e sulla loro vita sociale, tornare a casa e trovare una casa pulita dedicando il minimo sforso fisico a mentale a un attivita time consuming and stressfull,  che appena tornano a casa preferiscono rilssarsi o dedicare tempo ai figli e non alla puliza della casa 
 
 
- # . Abell Model
- ## .1 Customers Segmentation
- ## .2 Customers Needs
- ## .3 Technologies
-
-
+# . Abell Model
+## .1 Customers Segmentation
+## .2 Customers Needs
+## .3 Technologies
 
 # 5. Product Line
 IR2 sells high quality and innovative cleaning robots.
@@ -183,6 +237,8 @@ Molly 1.0  | Dolly 1.0
 ...|...
 ////
 
+
+i nostri robot possono comunicare tra loro, non sono due entità indipendenti
 
 
 
@@ -221,3 +277,88 @@ Our collaboration with robotic institutes give us the opportunity to release som
 
 ## Innovation fairs and release events
 We always attend innovation and tehcnology fairs held in Berlin, Barcellona, Milan, Tokio to expand our business and partnerships opportunities.
+
+
+
+# 9. Forecast
+
+The cleaning robot market in Europe is expected to grow during the forecast period. The increasing adoption of cleaning robots and the influx of global players, along with the emergence of native players, are helping the market to grow. As a result, Europe holds a significant share of the overall cleaning robot market. 
+perhce in europa prevediamo un aumento delle vendite?? sempre piu avvicinamento dei customer all'iot?
+
+
+
+
+
+
+
+
+--------
+Market Dynamics
+Driver: Penetration of automation in household appliances
+The development of artificial intelligence and IoT has given a new dimension of how robots can interact and work with humans. Also, the development and evolution of MEMS and sensors, and enhancements in visualization technology have improved the efficiency and accuracy of robots. The growth of the cleaning robot market is led by innovation and modernization in the field of robotics. Technological advancements and research activities have led to the development of cleaning robots, which are helping humans to perform mundane tasks. In addition to this, technological enhancements in visualization and sensing equipment have further resulted in the manufacture of cost-effective cleaning robots that are specialized to carry out cleaning duties. The development of IoT and wireless technologies has given users the power to control robots using remote or smartphone remotely. A user can schedule cleaning phase even without being present in the house. Such advancement and flexibility are boosting the market growth. The compatibility of these robots with Amazon Echo and Google Home smart speakers have helped increase the automation of these devices. Companies such as Dyson (UK), iRobot (US), and Neato Robotics (US) offers Wi-Fi-connected cleaning robots in the market.
+
+Restraint: Higher cost of cleaning robot
+Cleaning robot market is costlier than the traditional vacuum cleaner, which makes it less affordable to all segments of people. People in emerging economies such as India and China still rely on labor or traditional vacuum cleaner for cleaning purposes. The price of cleaning robot ranges from USD 200 to USD 1,200. In 2016, the GDP per capita of India, China, and Brazil was USD 1,709.4, USD 8,123.2, and USD 8,649.9, respectively. In developing countries, only a small segment of people can afford a cleaning robot, which is posing a restraint for the cleaning robot companies to commercialize their products in these regions. Thus, the cost of cleaning robot is an important restraint for the growth of the market.
+
+
+
+Challenge: Efficiency of cleaning robot market
+The increasing applicability of cleaning robot market in various fields such as commercial, industrial, personal services, logistics, and medical has propelled the need for efficient performance of these robots. Therefore, it becomes essential to develop advanced robotic systems that program robots to interact with humans. In the real world, the human environment has various challenging activities, which are beyond the control of robots. Perceiving the unstructured human environment becomes the biggest challenge for robots. Thus, creating a robot that is proactive and can foresee the needs of humans becomes the most significant challenge for market. Also, the suction capacity of cleaning robots is less as compared to the traditional vacuum cleaner, which is also a challenge for the cleaning robot market. However, further advancement could overcome this challenge.
+
+
+
+
+
+
+
+
+---------------------------
+
+PRODOTTI:
+ LINEA COMMERCIALE:: MAGGIORNE AUTONOMIA E POTENZA SERBATOIO (AUMENTIAMO I TEMPI DI RICARICA. GLI DANNO IL VIA LA SERA) 
+ LINEA CASALINGA :: CUSTOMIZZAZIONE DEL COLORE PER IL FATTO DEL DESIGN E IL FATTO CHE I NOSTRI CLIENTI STANNO ATTENTI AL DESIGN CI TENGONO(INFLUENCERS ANCHE)
+
+
+
+SOFTWARE REQUIREMENTS
+
+
+vogliamo integrare piu AI nei nostri robot, la gente è sempre più vicina all iot grazie a alexa e google ass
+vogliamo che la sizurezza e la privacy dei nostri utenti sia all base-- nelle strengs
+le informazioni raccolte dalla nostra app devono essere criptate e visibili solo all azienza e nn raccogliere informzioni sensibili
+
+vogliamo integrare nella nostra app un metodo di raccolta feedback piu efficente di quelli adottati fino adesso( lettura commenti post fb e instagram, customer care del sito e reclami dai retailers)  quindi dalla nostra app si deve raccogliere sia feedback deigli utenti, siamo problematiceh inviate dal robot ( quante volte si inceppa, quante volte deve essere svuotato(troppo rispetto alle revisione?), vengono salvati quindi anche gli alert del robot)
+vogliamo raccogliere anche i dati dei moemnti dell agiornata in cui la mamggiorparte delgi utenti da il via al robot per capire le abitudini degli uenti 
+vogliamo sempre piu che i nostri customer possano mandare feedback e problmatiche attraverso l'app di controllo dei robot.
+raccolta dei dati di utilizzo degli utenti attraverso la app
+
+avendo piu sotto mano l uso che ne fanno gli utenti possiamo raccogliere piu info per produrre un oggetto sempre piu cucito sui bisogni dei utenti
+
+
+il software dovra quindi collezionare tutti i feedback voltari degli utenti e tutti i segnali di problematiche riportati dal robot in automatico:
+ci sono sensori che dicono tra quanto vanno cambiate le spazzole
+quanto viene usato
+ogni quanto viene cambiato il serbaatoio 
+
+
+ogni mese dovranno essere collezionati i dati di ogni robot e organizzati secondo precise strutture
+
+chi usera questo software?
+reparto marketing
+reparto r&d 
+
+quanto lo usera?
+
+
+
+
+
+OPPORTUNITà PER IL FUTURO ---> CONCENTRARSI ANCHE SUL SEGMENTO INDUSTRIALE-- MAGGIORE POTENZA IDROPULITRICI
+
+REQUISITI AMBIENTALISTICI?
+ENERGIA SOLARE? 
+
+
+Opportunity: High potential in newer industrial applications
+The adoption of cleaning robot market is higher in the residential sector owing to the features such as small size and automated cleaning (without any human interference). Companies such as ADLATUS Robotics, Combijet, and Cyberdyne have helped in the commercialization of cleaning robots in commercial and industrial sectors. In commercial and industrial sectors, cleaning is done on a large scale, and cleaning robots help in saving labor cost, which, in turn, is helping the companies involved in these sectors to cut down operation cost. This has helped increase the scope of cleaning robot apart from the residential sector.
+ Such robots are now involved in steel-cleaning operations, including high-pressure washing and cleaning, and hydro blasting. The robots can be used in the maritime industry for cleaning/blasting vessels, the oil & gas sector to clean storage tanks, and industrial plants to clean metal structures. The advent of technology would help in enhancing cleaning robots for new applications. This would help replace manual labor and save time and cost. For instance, Ecoppia, a start-up company, is engaged in providing an autonomous, water-free Photovoltaics (PV)-panel cleaning technology for utility-scale solar installations using its E4 cleaning robot. Similarly, IBC Robotics is engaged in providing environmentally friendly cleaning solutions to transport containers using dry ice and a robot. The advancement of technology in the near future would help expand the use of cleaning robots in other applications also.
