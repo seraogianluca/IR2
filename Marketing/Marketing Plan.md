@@ -316,7 +316,7 @@ The increasing applicability of cleaning robot market in various fields such as 
 
 PRODOTTI:
  LINEA COMMERCIALE:: MAGGIORNE AUTONOMIA E POTENZA SERBATOIO (AUMENTIAMO I TEMPI DI RICARICA. GLI DANNO IL VIA LA SERA) 
- LINEA CASALINGA :: CUSTOMIZZAZIONE DEL COLORE PER IL FATTO DEL DESIGN E IL FATTO CHE I NOSTRI CLIENTI STANNO ATTENTI AL DESIGN CI TENGONO(INFLUENCERS ANCHE)
+ LINEA CASALINGA :: CUSTOMIZZAZIONE DEL COLORE PER IL FATTO DEL DESIGN E IL FATTO CHE I NOSTRI CLIENTI STANNO ATTENTI AL DESIGN CI TENGONO DISPONIBILE ANCHE NELLA LINEA COMMERCIALE(INFLUENCERS ANCHE)
 
 
 
@@ -327,15 +327,15 @@ vogliamo integrare piu AI nei nostri robot, la gente è sempre più vicina all i
 vogliamo che la sizurezza e la privacy dei nostri utenti sia all base-- nelle strengs
 le informazioni raccolte dalla nostra app devono essere criptate e visibili solo all azienza e nn raccogliere informzioni sensibili
 
-vogliamo integrare nella nostra app un metodo di raccolta feedback piu efficente di quelli adottati fino adesso( lettura commenti post fb e instagram, customer care del sito e reclami dai retailers)  quindi dalla nostra app si deve raccogliere sia feedback deigli utenti, siamo problematiceh inviate dal robot ( quante volte si inceppa, quante volte deve essere svuotato(troppo rispetto alle revisione?), vengono salvati quindi anche gli alert del robot)
-vogliamo raccogliere anche i dati dei moemnti dell agiornata in cui la mamggiorparte delgi utenti da il via al robot per capire le abitudini degli uenti 
+vogliamo integrare nella nostra app un metodo di raccolta feedback piu efficente di quelli adottati fino adesso( lettura commenti post fb e instagram, customer care del sito e reclami dai retailers)  quindi dalla nostra app si deve raccogliere sia feedback deigli utenti, sia problematiceh inviate dal robot ( quante volte si inceppa, quante volte deve essere svuotato(troppo rispetto alle Previsione?), vengono salvati quindi anche gli alert del robot)
+vogliamo raccogliere anche i dati dei moMenti della giornata in cui la mamggior parte delgi utenti da il via al robot per capire le abitudini degli uenti 
 vogliamo sempre piu che i nostri customer possano mandare feedback e problmatiche attraverso l'app di controllo dei robot.
 raccolta dei dati di utilizzo degli utenti attraverso la app
 
 avendo piu sotto mano l uso che ne fanno gli utenti possiamo raccogliere piu info per produrre un oggetto sempre piu cucito sui bisogni dei utenti
 
 
-il software dovra quindi collezionare tutti i feedback voltari degli utenti e tutti i segnali di problematiche riportati dal robot in automatico:
+il software dovra quindi collezionare tutti i feedback volontari degli utenti e tutti i segnali di problematiche riportati dal robot in automatico:
 ci sono sensori che dicono tra quanto vanno cambiate le spazzole
 quanto viene usato
 ogni quanto viene cambiato il serbaatoio 
