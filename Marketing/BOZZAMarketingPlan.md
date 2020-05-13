@@ -155,30 +155,30 @@ high tecnology and security of the customers(xiaomi chienese ci prende i dati)
 The cleaning robot market can be segmented on the basis of product, end-use application and geography. 
 
 On the basis of product type, the cleaning robot market can be categorized into:
-- pool robot,
-- window robot,
-- floor robot, 
+- pool robot
+- window robot
+- floor robot
 - lawn robot. 
 
 Based on the end-use verticals, the cleaning robot market can be segmented into:
-- residential,
-- commercial,
-- industrial,
+- residential
+- commercial
+- industrial
 - and healthcare applications. 
 
 Furthermore, on the basis of geography, the cleaning robot market is classified into five major regions:
-- North America,
-- Asia Pacific,
-- Europe,
+- North America
+- Asia Pacific
+- Europe
 - Middle East
-- Africa, 
+- Africa
 -Latin America. 
 
 North America is the most dominant market for cleaning robots owing to the presence of well-established cleaning robot manufacturers and high labor cost.
 
 ## Targeting
 
-IR2 focus the strenght in floor robot, for residential and commercial use in the Europe region.
+IR2 focus the strenght in floor robot, for residential use in the Europe region.
 
 
 ## Customer Segmentation
@@ -247,11 +247,22 @@ IR2 adopts two main distribution channels: online and large retail stores.
 
 The direct online retail is achieved trough the Corporate Site of the company: www.IR2.com 
 
-customers are also reached trough tree of the largest national retail chains like Mediaworld, Euronics and Unieuro. (SOLO LORO O ANCHE TRONY? O SOLO UNO? TIPO DYSON VENDE SOLO SUL SITO E SOLO SU EURONICS)
+customers are also reached trough tree of the largest national retail chains like Mediaworld. 
+
+contratto di esclusiva con mediawoorld che ci fa ordini precisi 
+(SOLO LORO O ANCHE TRONY? O SOLO UNO? TIPO DYSON VENDE SOLO SUL SITO E SOLO SU EURONICS)
 
 
 (MA SE SIAMO SOLO IN ITALI OK , MA SE VENDIAMO ANCHE IN EUROPA? E NEL MONDO? SIAMO GRANDI O NO?)
 
+# 7. pricing 
+
+benchmark with competitors 
+Price benchmarking means comparing one's prices to the prices of competitors in a particular market segment, a valuable tool in determining prices to achieve greater value.
+
+markup
+markup definition
+This could be the difference between cost and the selling price. For example, a retailer may markup its cost by 50% to arrive at a selling price. In the retail method of costing inventory, markup is used to mean the "additional" markup from the original selling price. For example, an item with a cost of $10 might normally be priced at $15. However, because of the shortage of this item and because of high demand, the retailer sets a selling price of $17. Sometimes markup means the $7, but sometimes it means the additional markup of $2.
 
 # 8. Communication
 
@@ -362,3 +373,181 @@ ENERGIA SOLARE?
 Opportunity: High potential in newer industrial applications
 The adoption of cleaning robot market is higher in the residential sector owing to the features such as small size and automated cleaning (without any human interference). Companies such as ADLATUS Robotics, Combijet, and Cyberdyne have helped in the commercialization of cleaning robots in commercial and industrial sectors. In commercial and industrial sectors, cleaning is done on a large scale, and cleaning robots help in saving labor cost, which, in turn, is helping the companies involved in these sectors to cut down operation cost. This has helped increase the scope of cleaning robot apart from the residential sector.
  Such robots are now involved in steel-cleaning operations, including high-pressure washing and cleaning, and hydro blasting. The robots can be used in the maritime industry for cleaning/blasting vessels, the oil & gas sector to clean storage tanks, and industrial plants to clean metal structures. The advent of technology would help in enhancing cleaning robots for new applications. This would help replace manual labor and save time and cost. For instance, Ecoppia, a start-up company, is engaged in providing an autonomous, water-free Photovoltaics (PV)-panel cleaning technology for utility-scale solar installations using its E4 cleaning robot. Similarly, IBC Robotics is engaged in providing environmentally friendly cleaning solutions to transport containers using dry ice and a robot. The advancement of technology in the near future would help expand the use of cleaning robots in other applications also.
+
+
+
+
+
+
+ 
+
+ i robot domestici rappresentano una soluzione valida e molto pratica per poter pulire le nostre case senza fatica.
+
+Di fatto non v’è sensazione più bella che rientrare finalmente a casa propria, dopo una stressante giornata lavorativa, ed essere accolti dalla piacevole sensazione di pulito. Grazie alla sua sviluppata tecnologia, il robot pulizia casa, fornisce questa unica e meravigliosa sensazione.
+
+Anche per combattere le allergie e aiutare chi soffre di asma. Infatti, grazie all’utilizzo dei robot domestici possiamo liberarci della presenza degli acari, del polline. Ogni più che minimo granello di polvere sparirà da moquette, pavimenti e tappeti. In maniera constante, attenta, oculata 
+
+
+L’autonomia e il design
+Altro punto di forza da non dimenticare è poi la notevole autonomia. I robot aspirapolvere sono infatti in grado di pulire i pavimenti in maniera del tutto autonoma, e in alcuni casi non limitano la loro azione a poche stanze, ma si rivelano in grado di  pulire interamente un appartamento di piccole-medie dimensioni. Per effetto delle loro dimensioni ridotte e del design snello e compatto, riescono a raggiungere i punti più ostici, ovvero quelli che normalmente non si riesce a pulire con un aspirapolvere classico oppure con una scopa elettrica.
+
+I sensori ottici e la programmazione
+A volte il pavimento può rappresentare un ostacolo per chi debba pulire, rendendo necessario togliere di mezzo tutti gli eventuali ostacoli. Nel caso dei robot aspirapolvere questo non costituisce un problema, essendo dotati di sensori in grado di riconoscere la presenza di ingombri lungo il percorso, oltre che di pericolosi dislivelli che potrebbero causare la rovinosa caduta del dispositivo.
+Altro punto di forza è la possibilità di programmarli. In tal modo possono entrare in funzione quando l’abitazione si sarà svuotata e completare il loro compito prima del rientro degli abitanti.
+
+
+
+
+
+
+commenti utenti:
+
+Si come no... Samsung e' proprio da dimenticare come profondita' di pulizia e area coperta, che non passa in diverse zone dove invece iRobot passa tranquillamente e piu' volte, neato funziona fino a quando la stanza rimane per com'e', e se ad esempio cambi disposizione delle sedie dopo la scansione o semplicemente sbatte sulla tua gamba, deve rifare la mappatura e lascia pure vuoti. il vantaggio dell'angolo retto per raggiungere gli angoli non funziona sempre; ha una potenza di aspirazione migliore ma non passa sullo stesso punto diverse volte come iRobot quindi la qualita' di pulizia complessivamente e' minore. iRobot inoltre e' piu' basso e passa sotto a divani ed altri mobili dove il Neato non passa...
+
+uso neato da due anni e come mappatura ed efficenza è spettacolare gira per tutta casa senza problemi, per contro di irobot ho un iRobot Braava 390t, purtroppo è abbastanza penoso, non si capisce come tracci il percorso ne si accorge con prontezza quando urta qualcosa, prova ad andare avanti per un pò fin quando non si decide a ricalcolare il percorso, rimpiango di non aver fatto il reso
+
+
+posseggo da 1 anno un Roomba 966 ed è fantastico, non ho mai usato le altre marche
+randorama10 Novembre 2019, 22:08#5
+sulla fascia alta di roomba non saprei dire. io ho un 630 ed è un idiota; cozza contro qualunque cosa come un ubriaco.
+la mia vicina ha comprato uno xiaomi; pagato più o meno la stessa cifra, è un altro pianeta.
+MasterMosquiton11 Novembre 2019, 09:34#6
+Originariamente inviato da: randorama
+sulla fascia alta di roomba non saprei dire. io ho un 630 ed è un idiota; cozza contro qualunque cosa come un ubriaco.
+la mia vicina ha comprato uno xiaomi; pagato più o meno la stessa cifra, è un altro pianeta.
+
+
+Concordo pienamente, ho avuto pure io un iRobot serie 6 per un anno e ora ho uno Xiaomi stessa fascia di prezzo, il paragone è indecente.
+vale.asto11 Novembre 2019, 11:14#7
+Anche io volevo acquistare un Roomba ma senza spendere più di 300€, questi robot non sembrano ancora così economici come dice il fondatore di Irobot.
+
+Ma a quanto pare i Roomba che costano meno sono quelli della serie 600 e non sembrano così efficienti. Qualcuno di voi ha provato altri modelli di questa serie?
+bs8211 Novembre 2019, 14:54#8
+E continua a non capire che la forma rotonda non permette di pulire gli angoli, forme che in una casa sono onnipresenti. E la spazzolina rotante è qualcosa di così inutile contro la polvere vera!
+Andrea[MI-VA-CO]11 Novembre 2019, 18:57#9
+Originariamente inviato da: bs82
+E continua a non capire che la forma rotonda non permette di pulire gli angoli, forme che in una casa sono onnipresenti. E la spazzolina rotante è qualcosa di così inutile contro la polvere vera!
+
+Link ad immagine (click per visualizzarla)
+ComputArte13 Novembre 2019, 01:54#10
+Tecnologia ...fedele!?
+
+Sicuramente uno "smart" hoover è utile, quando ben funzionante, ma ....MA ....vale la pena mettersi in casa una spia che mappa, e chissà quali altri dati sensibili "risucchia"!?!?!
+
+TUTTA la tecnologia "smart+cloud" è ingegnerizzata per spiare.
+
+....quando si leggono affermazioni nelle quali chi vende questi "accrocchi spioni" si spertica dicendo di rispettare e proteggere la privacy dell'utente ....ci sarebbe da ridere fino alle LACRIME ....amare....
+
+
+Anche io volevo acquistare un Roomba ma senza spendere più di 300€, questi robot non sembrano ancora così economici come dice il fondatore di Irobot.
+
+Ma a quanto pare i Roomba che costano meno sono quelli della serie 600 e non sembrano così efficienti. Qualcuno di voi ha provato altri modelli di questa serie?
+
+
+Su quali basi quelli della serie 600 non sarebbero così efficienti?
+Le spazzole e il filtro sono identici per la gran parte dei modelli, quello che cambia sono le funzioni e opzioni disponibili in un modello e mancanti in quello inferiore. Ma l'efficienza di pulizia non viene inficiata.
+Io ne ho preso uno della serie 600 perché non mi interessavano le funzioni Wi-fi, l'app che quando sei fuori casa fai partire la pulizia (mi basta un telecomando, premo clean prima di uscire da casa e il robottino esce dal mobile TV dove è nascosto ed inizia a pulire) e altri ammennicoli vari. Pulisce benissimo! Dopo che hai passato l'aspirapolvere, se lo fai uscire puoi scommetterci che tira su ancora qualcosa.
+
+Originariamente inviato da: bs82
+E continua a non capire che la forma rotonda non permette di pulire gli angoli, forme che in una casa sono onnipresenti. E la spazzolina rotante è qualcosa di così inutile contro la polvere vera!
+
+
+https://www.smartworld.it/amazon/philips-smartpro-easy-robot-aspirapolvere-offerta-lampo-amazon.html
+
+https://www.hwupgrade.it/news/scienza-tecnologia/irobot-l-aspirapolvere-si-candida-a-maggiordomo-che-coordina-robot-e-oggetti-connessi-della-casa_85417.html
+
+
+https://gizchina.it/2020/02/roborock-s5-max-robot-aspirapolvere-offerta-spedizione-italia/
+
+https://www.elle.com/it/lifestyle/casa/a29986955/aspirapolvere-robot-migliori-2020/
+
+
+
+
+
+
+ 
+
+ i robot domestici rappresentano una soluzione valida e molto pratica per poter pulire le nostre case senza fatica.
+
+Di fatto non v’è sensazione più bella che rientrare finalmente a casa propria, dopo una stressante giornata lavorativa, ed essere accolti dalla piacevole sensazione di pulito. Grazie alla sua sviluppata tecnologia, il robot pulizia casa, fornisce questa unica e meravigliosa sensazione.
+
+Anche per combattere le allergie e aiutare chi soffre di asma. Infatti, grazie all’utilizzo dei robot domestici possiamo liberarci della presenza degli acari, del polline. Ogni più che minimo granello di polvere sparirà da moquette, pavimenti e tappeti. In maniera constante, attenta, oculata 
+
+
+L’autonomia e il design
+Altro punto di forza da non dimenticare è poi la notevole autonomia. I robot aspirapolvere sono infatti in grado di pulire i pavimenti in maniera del tutto autonoma, e in alcuni casi non limitano la loro azione a poche stanze, ma si rivelano in grado di  pulire interamente un appartamento di piccole-medie dimensioni. Per effetto delle loro dimensioni ridotte e del design snello e compatto, riescono a raggiungere i punti più ostici, ovvero quelli che normalmente non si riesce a pulire con un aspirapolvere classico oppure con una scopa elettrica.
+
+I sensori ottici e la programmazione
+A volte il pavimento può rappresentare un ostacolo per chi debba pulire, rendendo necessario togliere di mezzo tutti gli eventuali ostacoli. Nel caso dei robot aspirapolvere questo non costituisce un problema, essendo dotati di sensori in grado di riconoscere la presenza di ingombri lungo il percorso, oltre che di pericolosi dislivelli che potrebbero causare la rovinosa caduta del dispositivo.
+Altro punto di forza è la possibilità di programmarli. In tal modo possono entrare in funzione quando l’abitazione si sarà svuotata e completare il loro compito prima del rientro degli abitanti.
+
+
+
+
+
+
+commenti utenti:
+
+Si come no... Samsung e' proprio da dimenticare come profondita' di pulizia e area coperta, che non passa in diverse zone dove invece iRobot passa tranquillamente e piu' volte, neato funziona fino a quando la stanza rimane per com'e', e se ad esempio cambi disposizione delle sedie dopo la scansione o semplicemente sbatte sulla tua gamba, deve rifare la mappatura e lascia pure vuoti. il vantaggio dell'angolo retto per raggiungere gli angoli non funziona sempre; ha una potenza di aspirazione migliore ma non passa sullo stesso punto diverse volte come iRobot quindi la qualita' di pulizia complessivamente e' minore. iRobot inoltre e' piu' basso e passa sotto a divani ed altri mobili dove il Neato non passa...
+
+uso neato da due anni e come mappatura ed efficenza è spettacolare gira per tutta casa senza problemi, per contro di irobot ho un iRobot Braava 390t, purtroppo è abbastanza penoso, non si capisce come tracci il percorso ne si accorge con prontezza quando urta qualcosa, prova ad andare avanti per un pò fin quando non si decide a ricalcolare il percorso, rimpiango di non aver fatto il reso
+
+
+posseggo da 1 anno un Roomba 966 ed è fantastico, non ho mai usato le altre marche
+randorama10 Novembre 2019, 22:08#5
+sulla fascia alta di roomba non saprei dire. io ho un 630 ed è un idiota; cozza contro qualunque cosa come un ubriaco.
+la mia vicina ha comprato uno xiaomi; pagato più o meno la stessa cifra, è un altro pianeta.
+MasterMosquiton11 Novembre 2019, 09:34#6
+Originariamente inviato da: randorama
+sulla fascia alta di roomba non saprei dire. io ho un 630 ed è un idiota; cozza contro qualunque cosa come un ubriaco.
+la mia vicina ha comprato uno xiaomi; pagato più o meno la stessa cifra, è un altro pianeta.
+
+
+Concordo pienamente, ho avuto pure io un iRobot serie 6 per un anno e ora ho uno Xiaomi stessa fascia di prezzo, il paragone è indecente.
+vale.asto11 Novembre 2019, 11:14#7
+Anche io volevo acquistare un Roomba ma senza spendere più di 300€, questi robot non sembrano ancora così economici come dice il fondatore di Irobot.
+
+Ma a quanto pare i Roomba che costano meno sono quelli della serie 600 e non sembrano così efficienti. Qualcuno di voi ha provato altri modelli di questa serie?
+bs8211 Novembre 2019, 14:54#8
+E continua a non capire che la forma rotonda non permette di pulire gli angoli, forme che in una casa sono onnipresenti. E la spazzolina rotante è qualcosa di così inutile contro la polvere vera!
+Andrea[MI-VA-CO]11 Novembre 2019, 18:57#9
+Originariamente inviato da: bs82
+E continua a non capire che la forma rotonda non permette di pulire gli angoli, forme che in una casa sono onnipresenti. E la spazzolina rotante è qualcosa di così inutile contro la polvere vera!
+
+Link ad immagine (click per visualizzarla)
+ComputArte13 Novembre 2019, 01:54#10
+Tecnologia ...fedele!?
+
+Sicuramente uno "smart" hoover è utile, quando ben funzionante, ma ....MA ....vale la pena mettersi in casa una spia che mappa, e chissà quali altri dati sensibili "risucchia"!?!?!
+
+TUTTA la tecnologia "smart+cloud" è ingegnerizzata per spiare.
+
+....quando si leggono affermazioni nelle quali chi vende questi "accrocchi spioni" si spertica dicendo di rispettare e proteggere la privacy dell'utente ....ci sarebbe da ridere fino alle LACRIME ....amare....
+
+
+Anche io volevo acquistare un Roomba ma senza spendere più di 300€, questi robot non sembrano ancora così economici come dice il fondatore di Irobot.
+
+Ma a quanto pare i Roomba che costano meno sono quelli della serie 600 e non sembrano così efficienti. Qualcuno di voi ha provato altri modelli di questa serie?
+
+
+Su quali basi quelli della serie 600 non sarebbero così efficienti?
+Le spazzole e il filtro sono identici per la gran parte dei modelli, quello che cambia sono le funzioni e opzioni disponibili in un modello e mancanti in quello inferiore. Ma l'efficienza di pulizia non viene inficiata.
+Io ne ho preso uno della serie 600 perché non mi interessavano le funzioni Wi-fi, l'app che quando sei fuori casa fai partire la pulizia (mi basta un telecomando, premo clean prima di uscire da casa e il robottino esce dal mobile TV dove è nascosto ed inizia a pulire) e altri ammennicoli vari. Pulisce benissimo! Dopo che hai passato l'aspirapolvere, se lo fai uscire puoi scommetterci che tira su ancora qualcosa.
+
+Originariamente inviato da: bs82
+E continua a non capire che la forma rotonda non permette di pulire gli angoli, forme che in una casa sono onnipresenti. E la spazzolina rotante è qualcosa di così inutile contro la polvere vera!
+
+
+https://www.smartworld.it/amazon/philips-smartpro-easy-robot-aspirapolvere-offerta-lampo-amazon.html
+
+https://www.hwupgrade.it/news/scienza-tecnologia/irobot-l-aspirapolvere-si-candida-a-maggiordomo-che-coordina-robot-e-oggetti-connessi-della-casa_85417.html
+
+
+https://gizchina.it/2020/02/roborock-s5-max-robot-aspirapolvere-offerta-spedizione-italia/
+
+https://www.elle.com/it/lifestyle/casa/a29986955/aspirapolvere-robot-migliori-2020/
+
+
+
+danone 15000 euro al mese per marketing
