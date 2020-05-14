@@ -20,10 +20,10 @@ Due to the high competition in our market, in the past the company' strategy was
 
 During last years, once leadership in the market has been ensured, the funds allocated to the marketing area have been reduced. 
 
-The marketing budget allocated for the 2020 amounts to 5% of the operating income: 4,35 milions of euros.
+The marketing budget allocated for the 2020 amounts to 180000 euros.
 
 
-### Purchasing (da fare)
+### Purchasing (da fare) DIFFERENZA CON IL MANIFACTURING? è UN SOTTOINSIEME?    
 
 The budget is created using a simple formula: the desired ending inventory, plus the cost of goods sold, minus the value of the beginning inventory. This equation gives you the total purchases budget. For example, if you want $10,000 in ending inventory and your cost of goods sold is around $3,000, add these two values and subtract the value of your beginning inventory from the $13,000 total. If the value of the beginning inventory is $2,000, for example, the amount if your total budget is $11,000.
 
@@ -31,6 +31,24 @@ The cost of goods sold is a collected sum of all products or services offered by
 
 
 ### Manufactoring (da fare)
+
+Here we present our production plan for the 2020 year, made to satisfy the demand.
+
+**Direct Materials**
+
+ Line | Product | Single unit cost | Monthly cost | Year Cost
+|---|----|---|---|---|
+X | Dolly | 243 | 684288 | 8211456
+X | Molly |  232 | 572880 | 6874560
+S | Dolly | 243 | 322080 | 3864960
+S | Molly | 243 | 183216 | 2198592
+Total  |  | | 1762464 | 21149568
+
+
+
+
+The manifacturing budget estimated is:
+
 A manufacturing budget is a set of three budgets that estimate the cost of direct materials, direct labor, and overhead for the number of units predicted to be produced in the production budget. In other words, the manufacturing budget estimates how much it will cost the company to produce the number of products included the production budget.
 
 ### Quality
