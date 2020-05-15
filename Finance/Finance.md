@@ -20,7 +20,7 @@ Due to the high competition in our market, in the past the company' strategy was
 
 During last years, once leadership in the market has been ensured, the funds allocated to the marketing area have been reduced. 
 
-The marketing budget allocated for the 2020 amounts to 180000 euros.
+- The marketing budget allocated for the 2020 amounts to 180000 euros.
 
 
 ## Purchasing DIFFERENZA CON IL MANIFACTURING? è UN SOTTOINSIEME?    
