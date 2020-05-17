@@ -141,6 +141,74 @@ This method is used to determine whether a new product or service will be profit
 ## Bargaining power of consumers
 ## Bargaining power of suppliers
 
+Full list of Porter’s Five Forces factors:
+
+Threat of new entrants
+
+Economies of scale
+Product differentiation
++ Brand identity/loyalty
+- Access to distribution channels 
++ Capital requirements 
+Access to latest technology
+Access to necessary inputs
++ Absolute cost advantages
+Experience and learning effects
+- Government policies
+Switching costs
+Expected retaliation from existing players
+
+Bargaining power of suppliers
+
+Number of suppliers
+Size of suppliers
+Supplier concentration
+Availability of substitutes for the supplier’s products
+Uniqueness of supplier’s products or services (differentiation)
+Switching cost for supplier’s products
+Supplier’s threat of forward integration
+Industry threat of backward integration
+Supplier’s contribution to quality or service of the industry products
+Importance of volume to supplier
+Total industry cost contributed by suppliers
+Importance of the industry to supplier’s profit
+
+Bargaining power of buyers
+
+Buyer volume (number of customers)
+Size of each buyer’s order
+Buyer concentration
+Buyer’s ability to substitute
+Buyer’s switching costs
+Buyer’s information availability
+Buyer’s threat of backward integration
+Industry threat of forward integration
+Price sensitivity
+
+Threat of substitute products or services
+
+Number of substitute products available
+Buyer’s propensity to substitute
+Relative price performance of substitutes
+Perceived level of product differentiation
+Switching costs
+Substitute producer’s profitability & aggressiveness
+
+Rivalry among existing competitors
+
+Number of competitors
+Diversity of competitors
+Industry concentration and balance
+Industry growth
+Industry life cycle
+Quality differences
+Product differentiation
+Brand identity/loyalty
+Switching costs
+Intermittent overcapacity
+Informational complexity
+Barriers to exit
+
 # 3.5 Strategic Group Analisys
 
 # 3.6 Growth Share Matrix
@@ -361,7 +429,7 @@ reparto r&d
 quanto lo usera?
 
 
-
+raccoglieere anche i dati dai social per leggere la reputation
 
 
 OPPORTUNITà PER IL FUTURO ---> CONCENTRARSI ANCHE SUL SEGMENTO INDUSTRIALE-- MAGGIORE POTENZA IDROPULITRICI
