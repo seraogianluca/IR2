@@ -74,7 +74,7 @@ To ensure the quality also in our in-house assembly and testing processes, we re
 
 - Fiscal benefits
 
-## Operational loss: 10162028€
+## Operational loss: 31053428€
 
 ### Research and development: 10000000€
 
