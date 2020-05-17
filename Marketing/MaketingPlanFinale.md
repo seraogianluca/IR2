@@ -41,6 +41,7 @@
 - No own production
 - Low variety of product choices
 - Cost involved in developing the cleaning robots is high
+CRESCITA BASSA
 
 ## Opportunities:
 - Collaboration with more institutes
@@ -82,6 +83,10 @@ There is not much of a threat from substitutes because in a digital age, custome
 Due to high number of competitors, customers have high bargaining power, but the quality and the reputation of the brand help the company to keep customers recognize our product as their first choice.
 
 ## Bargaining power of suppliers
+
+ABBIAMO DUE TIPI DI SUPPLIERS 
+I SUPPLIERS CHE PRUDCCONO CRITICAL PRODUCTS ALTO POTERE XK CI COLLABORIAMO SOLO NOI E CI FANNO EL COSE PEERSONALIZZAT EOSLO EP RNOI
+E QUELLI CON LEVERAGE PRODUCT BASSO POTERE CE Nè TANTI ALTAA COMPETITIZIONE SE LI CAMBIAMO STICAZZI
 Suppliers have high power because the firm buys the mechanical structures of the robots from few trusted suppliers.
 Besides IR2 is very important to suppliers because its their primary customer. 
 The relationships between the firm and the supplier is well established, both IR2 and the suppliers would most likely not want to end their relationships.
@@ -153,9 +158,9 @@ Both the lines offer different versions of each product: the Premium one and the
 
 Price range 800-900 EUR.
 
-product | name | production cost | selling price | 
+Product | Name | Final Cost | Selling Price | 
 -------------- | ----------| ---  |  --|
-vacuum cleaner premium  | Dolly X |  |1000|
+vacuum cleaner premium  | Dolly X |  |1100|  vediamo antonio
 mop  premium | Molly X |  |900|
 vacuum cleaner standard | Dolly S |  |800|
 mop standard | Molly S |   |700|
@@ -193,17 +198,19 @@ Due to the intense promotion activity and ... IR2 applyes a markup of 50% on the
 
 ## Social media promotion
 Active accounts on Facebook and Instagram and Youtube periodically publishing posts.
+
 Around 1000 EUR per month in social ads.
 
 ## Instagram influencers ads: 
 One of our product strenghts is the design, is an object that anybody interested in beauty and appearance want to show, is not to hide. We focus our promoting strategy also thinking about the idea of the person you want to be having this kind of product: an innovative person, well being, interested in the beauty of the things and in the continuos research of innovation and modernity, looking at the future, never stopping, always on movement, dinamic, focused in his goals.  
 
-Because of that tree years ago IR2 started collaborating with some of the most influent people of the web, both in the fashion field, both in the technological and life style field. 
+Because of that tree years ago IR2 started collaborating with some of the most influent people of the web, both in the fashion field, both in the technological and life style field.   
 
 Around 6000 EUR per month in gift and influencer promotion.
 
 ## Online ads
 Partnership with Google to sponsor IR2 website trhought Google search engine.
+
 Around 8000 EUR per month in google ads.
 
 ## Tv ads
@@ -218,50 +225,60 @@ Our collaboration with robotic institutes give us the opportunity to release som
 ## Innovation fairs and release events
 We always attend innovation and tehcnology fairs held in Berlin, Barcellona, Milan, Tokio to expand our business and partnerships opportunities.
 
-
 # 9 Monthly order forecast
 
-vedi excel.
-aggiungi grafici
+In the next years the IR2 activity will improve due to the increasing penetration of automation in household appliances and busy lifestyle and rising spending capacity of the population on advanced household equipment’s. 
 
-2019
+The sales in 2020 will increase due the growing popularity of the new X product line and thanks to the increasing visibility of the brand in the international market.
+
+### 2019
+
+![2019](./2019.png)
 
 |           | Dolly X | Molly X | Dolly S | Molly S | tot
 | --------- | ------- | ------- | ------- | ------- | ------|
-| gennaio   | 2469    | 1960    | 1340    | 1112    |
-| febbraio  | 2318    | 1819    | 1180    | 993     |
-| marzo     | 2519    | 2019    | 1290    | 982     |
-| aprile    | 2568    | 1980    | 1290    | 1082    |
-| maggio    | 2318    | 1769    | 978     | 822     |
-| giugno    | 2212    | 1760    | 1040    | 831     |
-| luglio    | 2118    | 1619    | 934     | 742     |
-| agosto    | 2218    | 1669    | 940     | 814     |
-| settembre | 2563    | 2017    | 1260    | 1032    |
-| ottobre   | 2610    | 1969    | 1140    | 922     |
-| novembre  | 2618    | 2069    | 1222    | 1027    |
-| dicembre  | 2821    | 2215    | 1420    | 1138    |
-| tot       | 29352   | 22865   | 14034   | 11497   | 77748 |
+| **gennaio**   | 2469    | 1960    | 1340    | 1112    |
+| **febbraio**  | 2318    | 1819    | 1180    | 993     |
+| **marzo**     | 2519    | 2019    | 1290    | 982     |
+| **aprile**    | 2568    | 1980    | 1290    | 1082    |
+| **maggio**    | 2318    | 1769    | 978     | 822     |
+| **giugno**    | 2212    | 1760    | 1040    | 831     |
+| **luglio**    | 2118    | 1619    | 934     | 742     |
+| **agosto**    | 2218    | 1669    | 940     | 814     |
+| **settembre** | 2563    | 2017    | 1260    | 1032    |
+| **ottobre**   | 2610    | 1969    | 1140    | 922     |
+| **novembre**  | 2618    | 2069    | 1222    | 1027    |
+| **dicembre**  | 2821    | 2215    | 1420    | 1138    |
+| **tot**       | 29352   | 22865   | 14034   | 11497   | **77748** |
 
-2020
+### 2020
+
+![2020](./2020.png)
 
 |           | Dolly X | Molly X | Dolly S | Molly S | tot   |
 | --------- | ------- | ------- | ------- | ------- | ----- |
-| gennaio   | 2918    | 2349    | 1200    | 982     |       |
-| febbraio  | 2918    | 2249    | 1140    | 912     |       |
-| marzo     | 2768    | 2099    | 1200    | 912     |       |
-| aprile    | 2918    | 2249    | 1350    | 1052    |       |
-| maggio    | 2618    | 2049    | 1140    | 902     |       |
-| giugno    | 2578    | 2049    | 1124    | 902     |       |
-| luglio    | 2418    | 1899    | 961     | 812     |       |
-| agosto    | 2618    | 2049    | 1010    | 885     |       |
-| settembre | 2818    | 2199    | 1220    | 1002    |       |
-| ottobre   | 2718    | 2149    | 1100    | 892     |       |
-| novembre  | 2818    | 2249    | 1180    | 992     |       |
-| dicembre  | 2918    | 2399    | 1307    | 1102    |       |
-| tot       | 33026   | 25988   | 13932   | 11347   | 84293 |
+| **gennaio**   | 2918    | 2349    | 1200    | 982     |       |
+| **febbraio**  | 2918    | 2249    | 1140    | 912     |       |
+| **marzo**     | 2768    | 2099    | 1200    | 912     |       |
+| **aprile**    | 2918    | 2249    | 1350    | 1052    |       |
+| **maggio**    | 2618    | 2049    | 1140    | 902     |       |
+| **giugno**    | 2578    | 2049    | 1124    | 902     |       |
+| **luglio**    | 2418    | 1899    | 961     | 812     |       |
+| **agosto**    | 2518    | 1949    | 1010    | 885     |       |
+| **settembre** | 2818    | 2199    | 1220    | 1002    |       |
+| **ottobre**   | 2718    | 2149    | 1100    | 892     |       |
+| **novembre**  | 2818    | 2249    | 1180    | 992     |       |
+| **dicembre**  | 2918    | 2399    | 1307    | 1102    |       |
+| **tot**       | 33026   | 25988   | 13932   | 11347   | **84093** |
+
+
+### Annual percentage growth
+![salesperyear](./salesperyear.png)
+
+|               | 2017  | 2018   | 2019   | 2020   |
+| ------------- | ----- | ------ | ------ | ------ |
+|               | 69913 | 72459  | 77748  | 84093  |
+| **% Growth** |       | 3,642% | 6,803% | 7,545% |
 
 
 
-
-In the next years the IR2 activity will improve due to the increasing penetration of automation in household appliances and busy lifestyle and rising spending capacity of the population on advanced household equipment’s. 
-The sales in 2020 will increase due the growing popularity of the new X product line and thanks to the increasing visibility of the brand in the international market.
