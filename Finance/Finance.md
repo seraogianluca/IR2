@@ -16,9 +16,9 @@ The 2019 operating income of the firm was 87 milions of euros.
 # Budget
 
 ## Marketing and sales
-Due to the high competition in our market, in the past the company' strategy was to allocate an high percentage of our operative income to the marketing area. This is becuase we wanted to improve and reinforce our leadership in the market, maintaining an huge visibility respect to our competitors.
+Due to the high competition in our market, the company' strategy is to allocate an high percentage of our net income to the marketing area. This is becuase we want to improve and reinforce our leadership in the market, maintaining a huge visibility respect to our competitors.
 
-During last years, once leadership in the market has been ensured, the funds allocated to the marketing area have been reduced. 
+For these reasons we decided to improve the marketing budget.
 
 - The marketing budget allocated for the 2020 amounts to 180000 euros.
 
@@ -78,9 +78,9 @@ To ensure the quality also in our in-house assembly and testing processes, we re
 
 ## Operational loss: 10162028€
 
-### Research and development: 40000€
+### Research and development: 10000000€
 
-- Direct R&D expenses: 10000€ extramural + 30000€  intramural = 40000€
+- Direct R&D expenses: 3000000€ extramural (collaborations) + 7000000€  intramural = 10000000€
 
 ### Industrial costs, or cost of sales: 9942028€
 
