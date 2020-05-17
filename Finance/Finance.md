@@ -32,15 +32,13 @@ Here we present our purchasing plan for the 2020 year, made to satisfy the proje
 
  Line | Product | Single unit cost | Year Cost
 |---|----|---|---|
-X | Dolly | 243 |  8140500 €
-X | Molly |  232 |1092750 €
-S | Dolly | 243 | 305610 €
-S | Molly | 243 |  256780 €
-Total  |  | | 9795640 €
+X | Dolly | 243 | 8140500 €
+X | Molly |  232,50 |6114750 €
+S | Dolly | 183 | 2721210 €
+S | Molly | 173,50 | 2130580 €
+Total  |  | | 19107040 €
 
-
-
-
+			
 
 ## Manufactoring 
 
@@ -82,11 +80,11 @@ To ensure the quality also in our in-house assembly and testing processes, we re
 
 - Direct R&D expenses: 3000000€ extramural (collaborations) + 7000000€  intramural = 10000000€
 
-### Industrial costs, or cost of sales: 9942028€
+### Industrial costs, or cost of sales: 19253428€
 
 - Cost of production personnel: 146388€
 
-- Purchases raw materials, components: 9795640€
+- Purchases raw materials, components: 19107040€
 
 - Industrial services
 
