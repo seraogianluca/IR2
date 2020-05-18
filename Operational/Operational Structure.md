@@ -27,7 +27,7 @@ In this area there are {warehouse_workers} people that deal with the operations 
 
 ### Inventory Managment
 
-Incoming goods: 
+Incoming goods:
 
 - supplies
 
