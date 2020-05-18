@@ -23,7 +23,17 @@ For these reasons we decided to improve the marketing budget.
 - The marketing budget allocated for the 2020 amounts to 180000 euros.
 
 
-## Purchasing DIFFERENZA CON IL MANIFACTURING? è UN SOTTOINSIEME?    
+We have entered into a commercial contract with Mediaworld for 500000€ comprising of:
+
+- Shipping cost for all the stores around Italy
+
+- A strategic position in front of the house cleaning department in each store.
+
+The shipping cost for our online shop is in charge of the customers.
+
+Marketing and sales budget: 680000€
+
+## Purchasing 
 
 
 Here we present our purchasing plan for the 2020 year, made to satisfy the projected demand.
@@ -47,9 +57,7 @@ Total  |  | | 19107040 €
 
 ## Quality
 
-We must guarantee the highest quality of our products, in order to satisfy every single customer. For this reason we only choose suppliers that comply with a certified standard quality (ISO 9001).
-
-To ensure the quality also in our in-house assembly and testing processes, we reserve a budget devoted to the salary of some specialized professional figures, in duty of constantly checking every step of the two processes. 
+To ensure the quality in our in-house assembly and testing processes, we reserve a budget devoted to the salary of some specialized professional figures, in duty of constantly checking every step of the two processes. 
 - 20 specialized employees * 1850 € (gross salary) = 37000 €
 
 
