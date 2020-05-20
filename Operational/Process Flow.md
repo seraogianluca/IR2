@@ -31,7 +31,7 @@ Assembly to order: products are assembled from components only once an order has
 
 ## Our choice
 
-[//]: <> (Here you have to put image1)
+![process](./images/process-image.png)
 
 The best process type selected by the company is an hybrid between batch environment and a line process.
 The principle is that many problems are similar and by grouping similar problems, a single solution can be found to a set of problems, thus saving time and effort.
