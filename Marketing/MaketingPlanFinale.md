@@ -25,9 +25,15 @@ IR2 is increasing sales thaks to the recent launch on the market on the last X s
 
 # 2. Market Analysis
 
-The robot vacuum cleaner segment in 2018 was the 25% of total vacuums cleaners segment(>200), a percentage that is expected to significantly grow during the next years.
-In 2018, the global RVC was valued at 6.5 billion U.S. dollars; the market value is forecast to reach 39.1 billion U.S. dollars by 2026.
+The robot vacuum cleaner segment in the market in 2018 was the 25% of total vacuums cleaners segment(>200), a percentage that is expected to significantly grow during the next years.
+In 2018, the global RVC market was valued at 6.5 billion U.S. dollars; 
+The market value is forecast to reach 39.1 billion U.S. dollars by 2026.
 The 46% of the next market growth will come from EMEA region, europe included. 
+
+Reasons for market growth:
+- Decreased time for household activities, robots help humans to perform mundane tasks.
+- Improved efficiency and accuracy of robots thanks to the development and evolution of sensors and visualization technologies.
+- The development of IoT and wireless technologies has given users the power to control robots using remote or smartphone remotely.
 
 The European key companies are:
 IR2.
@@ -99,11 +105,10 @@ IR2 differs from the competitors because focuses in innovation focusing in optim
 ## Weakness:
 - High price
 - Only italian national store
-- Final price depends also on meccanical parts suppliers costs
+- Final price depends also on suppliers costs
 - No own production
 - Low variety of product choices
 - Cost involved in developing the cleaning robots is high
-CRESCITA BASSA
 
 ## Opportunities:
 - Collaboration with more institutes
@@ -200,13 +205,15 @@ The S line is the previuos release of the product, has a lower price of the X li
 
 Design: IR2 products are characterized by a minimal and modern design, they can blend armoniously with both modern and more classical forniture environment. The customer is encouraged to show it, is an object that anybody interested in beauty and appearance want to show, is not like a classical vacuum cleaner to hide. 
 
-Quality: The quality of materials is visible and conquers the customers that always seek something more from the products they buy.
+Quality: The quality of materials is visible and conquers the customers that always seek something more from the products they buy. Resistant to children and pet attacks.
 
-Ultimate technology: A unique system of latest generation sensors combined with a specific AI make the IR2 robots the best in terms of orientation and interaction with the surrounding environment, able to generate intelligent and optimized cleaning paths in order to save battery and time. 
+Ultimate technology: A unique system of latest generation sensors combined with a specific AI make the IR2 robots the best in terms of orientation and interaction with the surrounding environment, able to generate intelligent and optimized cleaning paths in order to save battery and time, face obstacles and real time mapping recalculation in case of disposition changing. 
 
 Panik situation recognition:  the robot can detect the situation in which things are getting bad avoiding to make it worse trying to escape from it and limiting battery waste. Twisted wires in brushes, thin carpets, with fringes or raised corners, insurmountable objects on which competitors' products often jam with no way out.
 
-Dimension: The height of the robot makes it capable of cleaning under the thinner furniture.
+No corners left behind: the functional shape and the external brush make the robot able to reanch any corner.
+
+Dimension: The height of the robot makes it capable to clean under the thinner furniture.
 
 Noise: Silent and not annoying sound.
 
@@ -324,7 +331,4 @@ The overall sales in 2020 will increase due the growing popularity of the new X 
 |               | 2017  | 2018   | 2019   | 2020   |
 | ------------- | ----- | ------ | ------ | ------ |
 |               | 69913 | 72459  | 77748  | 84093  |
-| **% Growth** |       | 3,642% | 6,803% | 7,545% |
-
-
-
+| **% Growth**  |       | 3,642% | 6,803% | 7,545% |

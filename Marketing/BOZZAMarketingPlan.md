@@ -448,11 +448,7 @@ uso neato da due anni e come mappatura ed efficenza è spettacolare gira per tut
 
 
 posseggo da 1 anno un Roomba 966 ed è fantastico, non ho mai usato le altre marche
-randorama10 Novembre 2019, 22:08#5
-sulla fascia alta di roomba non saprei dire. io ho un 630 ed è un idiota; cozza contro qualunque cosa come un ubriaco.
-la mia vicina ha comprato uno xiaomi; pagato più o meno la stessa cifra, è un altro pianeta.
-MasterMosquiton11 Novembre 2019, 09:34#6
-Originariamente inviato da: randorama
+
 sulla fascia alta di roomba non saprei dire. io ho un 630 ed è un idiota; cozza contro qualunque cosa come un ubriaco.
 la mia vicina ha comprato uno xiaomi; pagato più o meno la stessa cifra, è un altro pianeta.
 
@@ -464,13 +460,8 @@ Anche io volevo acquistare un Roomba ma senza spendere più di 300€, questi ro
 Ma a quanto pare i Roomba che costano meno sono quelli della serie 600 e non sembrano così efficienti. Qualcuno di voi ha provato altri modelli di questa serie?
 bs8211 Novembre 2019, 14:54#8
 E continua a non capire che la forma rotonda non permette di pulire gli angoli, forme che in una casa sono onnipresenti. E la spazzolina rotante è qualcosa di così inutile contro la polvere vera!
-Andrea[MI-VA-CO]11 Novembre 2019, 18:57#9
-Originariamente inviato da: bs82
-E continua a non capire che la forma rotonda non permette di pulire gli angoli, forme che in una casa sono onnipresenti. E la spazzolina rotante è qualcosa di così inutile contro la polvere vera!
 
-Link ad immagine (click per visualizzarla)
-ComputArte13 Novembre 2019, 01:54#10
-Tecnologia ...fedele!?
+
 
 Sicuramente uno "smart" hoover è utile, quando ben funzionante, ma ....MA ....vale la pena mettersi in casa una spia che mappa, e chissà quali altri dati sensibili "risucchia"!?!?!
 
