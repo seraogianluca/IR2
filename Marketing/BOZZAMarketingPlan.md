@@ -75,10 +75,6 @@ In October 2017, Samsung introduced a Star Wars themed, limited edition version 
 
 ### positioning
 
-nicchia di mercato:
-In economia la nicchia è una parte di mercato che la concorrenza non ha ancora raggiunto, o che essa ha parzialmente occupato, ma in maniera tale da non venire incontro soddisfacentemente alla domanda.
-Può consistere in una parte di clientela, oppure in un determinato tipo di prodotti. Le nicchie sono in genere degli spazi piccoli, spesso ricercati da piccole imprese. Dati i costi fissi e le dimensioni modeste di una nicchia di mercato, non è detto che la sua conquista comporti la necessaria redditività.
-
 
 differenziazione
 - unicità
@@ -101,30 +97,6 @@ Il premium Price è inteso come:
 The most common of business methods,SWOT stands for Strengths, Weaknesses, Opportunities, and Threats. This method identifies and plots all of the internal and external factors that may have either a positive or negative impact on the strategy.
 
 
-## Strengths:
-- Brand reputation
-- High quality
-- Top design, it is not a product to hide, is something to show to define more your status
-- Top sensors, software
-- Constant commitment to innovation
-- Relationships with leading global robotic institutes
-
-## Weakness:
-- High price
-- Only italian national store, and european
-- Final price depends also on meccanical parts suppliers costs
-- No own production
-- Low variety of product choices
-
-## Opportunities:
-- Collaboration with more institutes
-- Global market growth
-- With the new feeedbakc aggregator-> more agile aprocach, more feedback from customersz
-- Start own supplier products production 
-
-## Threats:
-- huge amount of competitors
-- imitators of the products
 
 
 ## 3.3  PESTE Analysis

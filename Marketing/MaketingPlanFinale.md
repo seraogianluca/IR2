@@ -61,8 +61,6 @@ irobot focuses on innovation intended as always more smart devices, iot features
 
 IR2 differs from the competitors because focuses in innovation focusing in optimization of mapping algoritm, enivromental issues feaced by the robot and design of the product.
 
-METTI MEGLIO COSA CI S HA DI PIU FICO RISPETTO AFLI ALTRI.
-
 # 3.7 Growth Share Matrix
 
 IR2 is positioned in the star, is well positioned in Italian Market and there are confident possibilities to grow thks to the overall market growth.
@@ -255,13 +253,10 @@ Vacuum Cleaner |iRobot Corporation | iRobot Roomba i7+ | 999.00 EUR
 Vacuum Cleaner |Neato Robotics Inc.| Neato d7 | 899.00 EUR
 Mop |IRobot Corporation  | IRobot Braava jet M6 | 699.00 EUR
 Mop |IRobot Corporation  | IRobot Braava 380T | 399.00 EUR
-Combo | Ecovacs | DEEBOT OZMO 930 |  749.00 EUR
 
 ## 7.2 Markup policy
 
 IR2 applyes a markup of 50% on the final price of the product.
-
-Price range 700-1200 EUR.
 
 Line | Type | Name | Final Cost | Selling Price | 
 -|-|-|-|-|
