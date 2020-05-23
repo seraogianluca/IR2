@@ -40,3 +40,61 @@ It's very often used in assembly phase.
 ![process](./images/image2.png)
 
 [//]: <> (King's Algorithm)
+
+### Master Production Scheduling
+
+### Weekly Production Planning
+
+## Supply Chain
+
+In order to assembly a robot we need the following mechanical and electronic components:
+
+- Engine
+- Wheels
+- Frame
+- Actuators (aspirator, mop)
+- CPU
+- Motherboard
+- Sensors
+- Body
+- Accessories: bags, brush, ecc...
+- Battery
+- Power Supply
+
+These components are provided by **external** suppliers for the following reason:
+
+- suppliers have specialized research and know-how: the can provide us very high quality components
+
+- future volume requirements are uncertain
+
+- they can exploit better economy of scale
+
+The assembly is full internal for two main reason:
+
+- it's the way to guarantee an high quality of the product.
+
+- we must install and configure the software by ourselves, in order to keep the secret.
+
+We can divide all the suppliers in the following categories:
+
+- Critical Products: the products that are customized for our company  (sensors, battery, body, power supply)
+
+- Leverage Products: we need an high volume of these supplies but the suppliers are many.
+
+For the first category there is one sourcing, we estabilished very detailed contracts with:
+
+- a company that produces very accurate sensors, this company is at the forefront in this field.
+
+- a company that produces durable battery and the power supply
+
+- a company that produce in large scale the body and the frame of the robots using our indications for design and for material
+
+For the second category there are multiple sources:
+
+- several companies that produce hardware components: they provides us the motherboards and the CPUs
+
+- several companies that produce accessories with standard interfaces. (the brushes, the bags)
+
+## Inventory Managment
+
+## Quality Control
