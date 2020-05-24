@@ -1,16 +1,36 @@
 # Quality
 
-## Last Year Quality Analysis
+## Introduction
 
-Based on the data of the 2019, our production keeps very high standars of quality.
-We are considering the quality as:
+IR2 is a company that has the quality
 
-good pieces/overall pieces
+What do our customers requires from our company?
 
-During the 2019, our values were:
+Our customers want robot characterized by:
 
-- minimum quality value was reached in May: 87 %
-- maximum quality value was reached in November: 98%
-- the mean quality value was: 93 %
+- high accuracy
+- smartness
+- durabiltiy
 
-![quality-2019](./images/quality-2019-linechart.png)
+What is the source of the defets?
+
+The defects could rise up from poor quality of input material or software tests that do not verify all possible cases.
+
+We have to ensure:
+
+- high quality for input material
+- an intensive testing phase for the software
+- close to 0 defects in the assembly phase
+
+## Suppliers Quality Managment
+
+For each supplier, in the phase of integration into the development process we discussed about:
+
+- the quality requirements
+- the quality ensurance system of the supplier
+
+We have estabilished all the phases, all the checks and the frequency of the inspections.
+The inspections are more frequent for the suppliers considered "critical".
+In the contract with the suppliers there is a detailed section about the penalities in the case of non-compliance with quality requirements.
+
+## Internal Quality Managment
