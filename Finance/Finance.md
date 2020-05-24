@@ -52,7 +52,13 @@ Total  |  | | 19107040 €
 
 ## Manufactoring 
 
+For 2020 we hired 6 more employees because we want increase the production.
+
 - Direct labour cost: 109388 € (70 employees'salary)
+
+- Ordinary maintenance: 15000 €
+
+Manufactoring budget: 124388 €
 
 
 ## Quality
