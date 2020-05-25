@@ -11,7 +11,7 @@
 # Finance
 In this document we provide an overview of the finance structure of the IR2 company.
 
-The 2019 operating income of the firm was 87 milions of euros.
+The 2019 operating income of the firm was ?
 
 # Budget
 
@@ -25,7 +25,7 @@ For these reasons we decided to improve the marketing budget.
 
 We have entered into a commercial contract with Mediaworld for 500000€ comprising of:
 
-- Shipping cost for all the stores around Italy
+- Shipping cost for all the stores around Italy.
 
 - A strategic position in front of the house cleaning department in each store.
 
@@ -52,7 +52,13 @@ Total  |  | | 19107040 €
 
 ## Manufactoring 
 
+For 2020 we hired 6 more employees because we want increase the production.
+
 - Direct labour cost: 109388 € (70 employees'salary)
+
+- Ordinary maintenance: 15000 €
+
+Manufactoring budget: 124388 €
 
 
 ## Quality
@@ -66,11 +72,11 @@ To ensure the quality in our in-house assembly and testing processes, we reserve
 
 ## Profit
 
-### Operational revenues
+### Operational revenues: 83638907€
 
-- Sales of products and services
+- Sales of products and services: 83638907€
 
-- Discount on purchases
+- Discount on purchases:0
 
 ### Financial revenues: 0
 
@@ -98,14 +104,17 @@ To ensure the quality in our in-house assembly and testing processes, we reserve
 
 - Depreciation of assets
 
-### Selling costs: 180000€
-- Cost of sales personnel: 0
+### Selling costs: 680000€
 
-- Promotion and advertising: 180000€
+Including: 
+
+- Marketing: 180000€
+
+- Shipping costs and strategical position inside stores: 500000€
 
 
 ### General administrative expenses
-- General management: stabilire
+- General management: 4000000
 
 - Legal and regulatory affairs
 
@@ -150,6 +159,9 @@ To ensure the quality in our in-house assembly and testing processes, we reserve
 -- others
 
 # Assets and liabilities (projections)
+
+
+
 
 # Investment budget
 

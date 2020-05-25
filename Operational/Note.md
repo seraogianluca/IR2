@@ -1,6 +1,9 @@
-# Process Flow
+# Note
+
+## Process Flow
 
 How can we select the process type?
+
 It's very helpful to answer the following questions.
 
 ## What are the physical requirements of the company's product
@@ -28,11 +31,3 @@ The company is able to produce 8096 robots monthly.
 ## Where in the value chain does the customization take place
 
 Assembly to order: products are assembled from components only once an order has been made.
-
-## Our choice
-
-[//]: <> (Here you have to put image1)
-
-The best process type selected by the company is an hybrid between batch environment and a line process.
-The principle is that many problems are similar and by grouping similar problems, a single solution can be found to a set of problems, thus saving time and effort.
-We can adopt this solution because there are some parts in the assembly phase that are very similar each other and use similar machinery.
