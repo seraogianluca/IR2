@@ -1,22 +1,3 @@
-# IR2 - Marketing Plan
-
-### MARKETING DIRECTOR: Matilde Mazzini
-
-## Table of contents:
-1) [Introduction](#1-introduction)
-2) [Market Analysis](#2-market-analysis)     (Demographic data, Food Consumption)
-3) [Competitive Analisys](#3-competitive-analisys)
-4) [Segmentation](#4-segmentation)
-5) [Distribution channels](#5-distribution-channels)
-- Product policy
-- Pricing (Benchmark with competitors, Mark up policy)
-8) [Communication](8#-commuication)          (Advertising budget, On-site promotion)
-- Monthly order forecast
-- Input to the RFP and RFQ
-
- # 1. Introduction
-
- # 2. Market Analysis
 <!--
 
 food consuption:

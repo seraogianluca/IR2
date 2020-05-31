@@ -4,47 +4,49 @@
 
 ## Table of contents:
 1) [Introduction](#1-introduction)
-2) [Market Analysis](#2-market-analysis)     (Demographic data, Food Consumption)
-3) [Competitive Analisys](#3-competitive-analisys)
+2) [Market Analysis](#2-market-analysis)     
+3) [Competitive Analysis](#3-competitive-analysis)
 4) [Segmentation](#4-segmentation)
 5) [Distribution channels](#5-distribution-channels)
 6) [Product policy](#6-product-policy)
 7) [Pricing](#7-pricing)                     
 8) [Communication](#8-commuication)          
 9) [Monthly order forecast](#9-monthly-order-forecast)
-10) [Input to the RFP and RFQ](#10-input-to-the-rfp-and-rfq)
 
- # 1. Introduction
+## 1. Introduction
 
 This Marketing Plan was drawn up on behalf of the IR2 company.
 It has the purpose to show a picture of the company and its competitors in order to get closer to the needs of costumers and increase sales accordingly.
+IR2 headquarter is located in Italy, the firm focuses its sells in Italy and it is slowly penetrating the European market share.
 The company’s product portfolio consists of home-cleaning robots. 
 IR2 mainly invests in R&D to develop new technologies for its home robots, which have resulted in increased sales and revenue growth.
 IR2 plans to not only increase penetration of its products in Italy but also promote its existing products in Europe, maintaining the quality and relayability reputation of the brand.
-IR2 is increasing sales thaks to the recent launch on the market on the last X serie line of vacuum cleaner and mop. To develop this product the firms focused on a differentiation stategy against the competitors choosin to offer a designfull and innovative product that really incounter the customers needs.
+IR2 is increasing sales thaks to the recent launch on the market on the last X serie line of vacuum cleaner and mop.
 
-# 2. Market Analysis
+## 2. Market Analysis
 
-The robot vacuum cleaner segment in the market in 2018 was the 25% of total vacuums cleaners segment(>200), a percentage that is expected to significantly grow during the next years.
-In 2018, the global RVC market was valued at 6.5 billion U.S. dollars; 
+The robot vacuum cleaner segment in the market in 2018 was the 25% of total vacuums cleaners segment, a percentage that is expected to significantly grow during the next years.
+
+![23](./23.png)
+
+In 2018, the global RVC market was valued at 6.5 billion U.S. dollars.
+
 The market value is forecast to reach 39.1 billion U.S. dollars by 2026.
+
 The 46% of the next market growth will come from EMEA region, europe included. 
 
 Reasons for market growth:
 - Decreased time for household activities, robots help humans to perform mundane tasks.
 - Improved efficiency and accuracy of robots thanks to the development and evolution of sensors and visualization technologies.
-- The development of IoT and wireless technologies has given users the power to control robots using remote or smartphone remotely.
+- The technological advancements in the IoT , smart homes and wireless technologies.
 
-The European key companies are:
-IR2.
+The global market key companies are:
 Dyson Ltd.
 iRobot Corp.
 Samsung Electronics Co. Ltd.
 Neato Robotics
 
-IR2 headquarter is located in Italy, the firm focuses its sells in Italy and it is slowly penetrating the European market share.
-
-# 2.1 Market Segmentation
+### 2.1 Market Segmentation
 
 The cleaning robot market can be segmented on the basis of product, end-use application and geography. 
 
@@ -72,29 +74,50 @@ North America is the most dominant market for cleaning robots owing to the prese
 
 IR2 focus the strenght in floor robot, for residential use in the Europe region, specifically in Italy.
 
-# 3. Competitive Analisys
+### 2.2 PEST Analysis
 
-# 3.3 Growth Share Matrix
+**Political:**
+
+IR2 is plannig to expand its business in the Europe Union because of its safe and predictable econonomic circumstances.
+In this way it will be helpful for the company to predict its market growth because Europe is politically stable.
+
+**Economic:**
+
+The Robot vacuum cleaner market is espected to grow in Europe, the willing to pay of the people for robotic home assistance products will be consistent.
+
+**Social:**
+
+In theese time people lifestyles are completely revolutioned by technology that cohexist and cooperate with humans. People that appreciate the help a product like this can give will never go back to the waste of time and physical effort, can focus on their hobbies and carreers.
+
+**Technological:**
+
+The whole world of technology is moving towards Iot and AI, this cannot help but make a positive contribution to the robot industry.
+
+## 3. Competitive Analisys
+
+### 3.1 Growth Share Matrix
 
 IR2 is positioned in the star, is well positioned in Italian Market and there are confident possibilities to grow thanks to the overall market growth.
 Keep investing in R&D in order to maintaid quality and cutting edge technology.
 
-# 3.2 Strategic Group Analisys
-The most direct competitors of IR2 are Irobot and dyson.
-The common strategy adopted by this group is to develop an high price product that ensures quality and innovation
-dyson focuses on engime quality and power of suction.
-irobot focuses on innovation intended as always more smart devices, iot features and multiple automatic features.
+### 3.2 Strategic Group
+The most direct competitors of IR2 are IRobot and Dyson.
+The common strategy adopted by this group is to develop an high price product that ensures quality and innovation.
 
-IR2 differs from the competitors because focuses in innovation focusing in optimization of mapping algoritm, enivromental issues feaced by the robot and design of the product.
+Dyson is focused on engine quality and power of suction.
 
-# 3.1 Perceptual Mapping
+IRobot focuses on innovation as always more smart devices, iot features and multiple automatic features.
+
+IR2 differs from the competitors focusing in optimized mapping algoritm, solving enivromental issues feaced by the robot and the design of the products.
+
+### 3.3 Perceptual Maps
 
 ![map1](./map1.png)
 ![map2](./map2.png)
 
-## 3.5 SWOT Analysis
+### 3.4 SWOT Analysis
 
-## Strengths:
+**Strengths**:
 - Brand reputation
 - High quality
 - Top design, it is not a product to hide, is something to show to define your status
@@ -102,7 +125,7 @@ IR2 differs from the competitors because focuses in innovation focusing in optim
 - Constant commitment to innovation
 - Relationships with leading global robotic institutes
 
-## Weakness:
+**Weakness**:
 - High price
 - Only italian national store
 - Final price depends also on suppliers costs
@@ -110,22 +133,21 @@ IR2 differs from the competitors because focuses in innovation focusing in optim
 - Low variety of product choices
 - Cost involved in developing the cleaning robots is high
 
-## Opportunities:
+**Opportunities**:
 - Collaboration with more institutes
 - Global market growth
-- With the new feeedbakc aggregator-> more agile aprocach, more feedback from customersz
 - Start own supplier products production 
 - Growing awareness about the health and benefits of vacuum cleaners
 - Introduction of new robot vacuum concepts
 
-## Threats:
+**Threats**:
 - huge amount of competitors
 - imitators of the products
 - customers mental barriers againsts robot
 
-# 3.6 Porter's Five Forces Model
+### 3.5 Porter's Five Forces Model
 
-## Barriers to entry
+**Barriers to entry**
 
 - Absolute cost advantages
 - Capital requirements.
@@ -133,26 +155,31 @@ IR2 differs from the competitors because focuses in innovation focusing in optim
 
 The robot industry is unattractive to newcomers because of the cost advantage large-scale incumbents possess, the significant amount of capital a new firm would need, and the major established brands already in the industry.  
 
-## Rivalry among competitors
+**Rivalry among competitors**
 
 There is a strong rivalry since firms try to differentiate focusing on new features and finding new optimized mapping algorithms and more automatized products.
+
 The competition forces each firm to invest in R&D to find the newest and best technology in order to maintain the visibility among different firms. 
 
-## Substitute products 
+**Substitute products**
 
-There is not much of a threat from substitutes because in a digital age, customers are more and more relying on technology to run their lives. A substitute would be a classical vacuum cleaner that can cost less but the time and physical advantages of a robot are paramount.
+There is not much of a threat from substitutes because in a digital age, customers are more and more relying on technology to run their lives. 
 
-## Bargaining power of buyers
+A substitute would be a classical vacuum cleaner that can cost less but the time and physical advantages of a robot are paramount.
+
+**Bargaining power of buyers**
 
 - High number of customers
 - Low size of each order, one product last years.
+
 Due to high number of competitors, customers have high bargaining power, but the quality and the reputation of the brand help the company to keep customers recognize our product as their first choice.
 
-## Bargaining power of suppliers
+**Bargaining power of suppliers**
 
 The IR2 suppliers are divided in two groups: the critical products suppliers and the leverage products suppliers.
 
 The critical products suppliers have high power because the firm buys the sensors and customized part of the robots from those trusted few well specialized suppliers.
+
 IR2 is very important for those suppliers because its their primary customer. 
 The relationships between the firm and the supplier is well established, both IR2 and the suppliers would most likely not want to end their relationships, also because during the years, they established a partnership.
 
@@ -185,44 +212,51 @@ This product is perfect for any family with medium-high income.
 For up-to-date single workers focused in their career and technology entusiastics.
 
 
-# 5. Distribution channels
+## 5. Distribution channels
 
 IR2 adopts two main distribution channels: online and large retail store.
 The direct online retail is achieved trough the corporate site of the company: www.IR2.com 
-Customers are also reached trough one of the largest national retail chain: Mediaworld. 
-The price on both the channels is the same.
-The choice of choosing only two distribution channels with the same price help the firm to avoid devaluation perception of the product and limit the perceived dispersion that a client can feel on different online and offline channels, with this strategy the firm can gain in fidelization over time trying to create an increasingly strong brand identity.
-the most adopted channel is the retail store due to the necessity of the customers to see the object for real in action and to speak with someone that can help them in the decision before making a significant purchase.
 
-# 6. Product Policy
+Customers are also reached trough one of the largest national retail chain: Mediaworld. 
+
+The price on both the channels is the same.
+
+The choice of choosing only two distribution channels with the same price help the firm to avoid devaluation perception of the product and limit the perceived dispersion that a client can feel on different online and offline channels, with this strategy the firm can gain in fidelization over time trying to create an increasingly strong brand identity.
+
+The most adopted channel is the offline store due to the necessity of the customers to see the object for real in action and to speak with someone that can help them in the decision before making a significant purchase.
+
+## 6. Product Policy
 
 The products are subdivided into two different product lines: Dolly and Molly. 
+
 The first one is a robot vacuum-cleaner and the second one is a robot mop.
 Both the lines offer different versions of each product: the X one and the S one.
 
 The X line is the last release of the products, launched on the market at the end of 2018 , is characterized by more features and competitive software integrations. 
+
 The S line is the previuos release of the product, has a lower price of the X line, is well consolidated on the market starting to leave the maturity phase.
 
-Design: IR2 products are characterized by a minimal and modern design, they can blend armoniously with both modern and more classical forniture environment. The customer is encouraged to show it, is an object that anybody interested in beauty and appearance want to show, is not like a classical vacuum cleaner to hide. 
+**Design**: IR2 products are characterized by a minimal and modern design, they can blend armoniously with both modern and more classical forniture environment. The customer is encouraged to show it, is an object that anybody interested in beauty and appearance want to show, is not like a classical vacuum cleaner to hide. 
 
-Quality: The quality of materials is visible and conquers the customers that always seek something more from the products they buy. Resistant to children and pet attacks.
+**Quality**: The quality of materials is visible and conquers the customers that always seek something more from the products they buy. Resistant to children and pet attacks.
 
-Ultimate technology: A unique system of latest generation sensors combined with a specific AI make the IR2 robots the best in terms of orientation and interaction with the surrounding environment, able to generate intelligent and optimized cleaning paths in order to save battery and time, face obstacles and real time mapping recalculation in case of disposition changing. 
+**Ultimate technology**: A unique system of latest generation sensors combined with a specific AI make the IR2 robots the best in terms of orientation and interaction with the surrounding environment, able to generate intelligent and optimized cleaning paths in order to save battery and time, face obstacles and real time mapping recalculation in case of disposition changing. 
 
-Panik situation recognition:  the robot can detect the situation in which things are getting bad avoiding to make it worse trying to escape from it and limiting battery waste. Twisted wires in brushes, thin carpets, with fringes or raised corners, insurmountable objects on which competitors' products often jam with no way out.
+**Panik situation recognition**:  the robot can detect the situation in which things are getting bad avoiding to make it worse trying to escape from it and limiting battery waste. Twisted wires in brushes, thin carpets, with fringes or raised corners, insurmountable objects on which competitors' products often jam with no way out.
 
-No corners left behind: the functional shape and the external brush make the robot able to reanch any corner.
+**No corners left behind**: the functional shape and the external brush make the robot able to reanch any corner.
 
-Dimension: The height of the robot makes it capable to clean under the thinner furniture.
+**Dimensions**: The height of the robot makes it capable to clean under the thinner furniture.
 
-Noise: Silent and not annoying sound.
+**Noise**: Silent and not annoying sound.
 
-App functions: virtual walls, interaction vacuum-mop, remote controll, robot feedback and alert message on the status of the robot, users feedback collection.
+**Neutron App functions**: virtual walls, interaction vacuum-mop, remote controll, robot feedback and alert message on the status of the robot, users feedback collection.
 
-# 7. Pricing
+## 7. Pricing
 
-## 7.1 Benchmark with competitors
+### 7.1 Benchmark with competitors
 Our biggest competitors in the high quality and high price range cleaning robot market are Dyson and IRobot.
+
 Below are reported the prices of the competitors TOP products that offer similar values of features of the IR2 X serie products.
 
 Type| Competitor | Product name | Price
@@ -234,51 +268,51 @@ Vacuum Cleaner |Neato Robotics Inc.| Neato d7 | 899.00 EUR
 Mop |IRobot Corporation  | IRobot Braava jet M6 | 699.00 EUR
 Mop |IRobot Corporation  | IRobot Braava 380T | 399.00 EUR
 
-## 7.2 Markup policy
+### 7.2 Markup policy
 
-IR2 applyes a markup of 50% on the final price of the product.
+IR2 applyes an average markup of 55% .
 
 Line | Type | Name | Final Cost | Selling Price | 
 -|-|-|-|-|
-Line X | Vacuum Cleaner  | Dolly X |     EUR |1099 EUR|  
-Line X | Mop             | Molly X |     EUR |899 EUR |
-Line S | Vacuum Cleaner  | Dolly S |     EUR |799 EUR |
-Line S | Mop             | Molly S |     EUR |699 EUR |
+Line X | Vacuum Cleaner| Dolly X |   756,83  EUR |1099 EUR|  
+Line X | Mop           | Molly X |   567,33  EUR |899 EUR |
+Line S | Vacuum Cleaner| Dolly S |   517,63  EUR |799 EUR |
+Line S | Mop           | Molly S |   427,13  EUR |699 EUR |
 
-# 8. Communication
+## 8. Communication
 
-The budget for advertisin and promotion in 2020 is of 180000 EUR. 
+The budget for advertisin and promotion in 2020 is of 180.000 EUR. 
 
-## 8.1 Social media promotion
+### 8.1 Social media promotion
 Active accounts on Facebook and Instagram and Youtube periodically publishing posts.
 
 Around 1000 EUR per month in social ads.
 
-## 8.2 Instagram influencers ads: 
+### 8.2 Instagram influencers ads: 
 One of our product strenghts is the design, is an object that anybody interested in beauty and appearance want to show, is not to hide. We focus our promoting strategy also thinking about the idea of the person you want to be having this kind of product: an innovative person, well being, interested in the beauty of the things and in the continuos research of innovation and modernity, looking at the future, never stopping, always on movement, dinamic, focused in his goals.  
 
 Because of that tree years ago IR2 started collaborating with some of the most influent people of the web, both in the fashion field, both in the technological and life style field.   
 
-Around 6000 EUR per month in gift and influencer promotion.
+Around 6000 EUR per month in gift and influencer promotion and collaborations.
 
-## 8.3 Online ads
+### 8.3 Online ads
 Partnership with Google to sponsor IR2 website trhought Google search engine.
 
 Around 8000 EUR per month in google ads.
 
-## 8.4 Tv ads
+### 8.4 Tv ads
 In the past TV was one of our main promotion channel spending in specific ads channel. Nowadays we are more and more focusing in the online promotion, putting very modest effort on this channel.
 
-## 8.5 Promotion on the retail stores
+### 8.5 Promotion on the retail stores
 Retail stores have the possibility to lower the price in sales period, and promote the product trought their channels.
 
-## 8.6 Articles in technology magazines 
+### 8.6 Articles in technology magazines 
 Our collaboration with robotic institutes give us the opportunity to release some articles about our software and sensors newest technologies in specialized magazines.
 
-## 8.9 Innovation fairs and release events
+### 8.7 Innovation fairs and release events
 We always attend innovation and tehcnology fairs held in Berlin, Barcellona, Milan, Tokio to expand our business and partnerships opportunities.
 
-# 9. Monthly order forecast
+## 9. Monthly order forecast
 
 In the next years the IR2 activity will improve due to the increasing penetration of automation in household appliances and busy lifestyle and rising spending capacity of the population on advanced household equipment’s. 
 
