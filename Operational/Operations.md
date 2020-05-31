@@ -1,5 +1,16 @@
 # Operations
 
+Operational Director:
+Antonio Acquavia
+
+## Table of contents
+
+1) [Introduction](##Introduction)
+2) [The Activity](##The-activity)
+3) [Product flow & Layout](##Product-Flow-&-Layout)
+4) [Inventory Managment](##-Inventory-Managment)
+5) [Quality Control](##-Quality-Control)
+
 ## Introduction
 
 ### Our products
