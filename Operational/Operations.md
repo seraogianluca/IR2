@@ -10,6 +10,7 @@ Antonio Acquavia
 3) [Product flow & Layout](##Product-Flow-&-Layout)
 4) [Inventory Managment](##-Inventory-Managment)
 5) [Quality Control](##-Quality-Control)
+6) [Research Institute](##-Research-Institutes)
 
 ## Introduction
 
@@ -52,6 +53,23 @@ It's very often used in assembly phase.
 
 [//]: <> (King's Algorithm)
 
+### Production Details
+
+Our machinery and our employees provide us to produce up to:
+
+- 3077 Dolly X per month (about 750 weekly)
+- 2963 Molly X per month (about 750 weekly)
+- 1846 Dolly S per month (about 450 weekly)
+- 1778 Molly S per month (about 450 weekly)
+
+The production is organized in 2 shifts of 8 hours. This means that the overall hours of work in a month are 320, if we consider a month composed by 4 weeks.
+About 45 employees work in each shift, in each of which there are:
+
+- 14 people which deals with testing
+- 5 people quality responsibles
+- 2 people responsible of warehouse
+- the others works on the cells
+
 ### Master Production Scheduling
 
 ### Weekly Production Planning
@@ -74,7 +92,7 @@ In order to assembly a robot we need the following mechanical and electronic com
 
 These components are provided by **external** suppliers for the following reason:
 
-- suppliers have specialized research and know-how: the can provide us very high quality components
+- suppliers have  research and know-how: the can provide us very high quality components
 
 - future volume requirements are uncertain
 
@@ -98,7 +116,7 @@ For the first category there is one sourcing, we estabilished very detailed cont
 
 - a company that produces durable battery and the power supply
 
-- a company that produce in large scale the body and the frame of the robots using our indications for design and for material
+-  
 
 For the second category there are multiple sources:
 
@@ -109,3 +127,5 @@ For the second category there are multiple sources:
 ## Inventory Managment
 
 ## Quality Control
+
+## Research Institutes

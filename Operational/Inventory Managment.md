@@ -39,31 +39,8 @@ Our supply-chain managment takes under control:
 - forecasted demand at the beginning of the next week
 - booked order at the beginning of the next week
 - predicted inventory at the beginning of the next week
+- a security stock
 
 Based on these paramenters, they place the order minimum to comply the requests of the next week.
-In this way, the inventory remains low.
-
-
-
-Positioning:
-
-- Analisi di pareto
-
-- Indice di accesso al magazzino
-
-- Valore della merce
-
-- 
-
-Policy:
-
-- Rotation
-- Low Inventory
-- Just-In-Time
-
-Timing:
-
-- Delivery time: tempo da quando arriva l'ordine a quando consegni
-- Lead time: tempo per produrre
-
-Quando Lead Time > Delivery Time
+In this way, the inventory remains as low as possible but a security stock is always mantained.
+The average stock of raw material will decrease in 2020, according to the forecasting about the production.
