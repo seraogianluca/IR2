@@ -40,7 +40,6 @@ Outcoming goods:
 
 ## Supplies
 
-
 ### Supplies cost
 
 Common suppliers among the robot top of range.
