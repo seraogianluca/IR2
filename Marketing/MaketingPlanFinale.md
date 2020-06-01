@@ -17,11 +17,11 @@
 
 This Marketing Plan was drawn up on behalf of the IR2 company.
 It has the purpose to show a picture of the company and its competitors in order to get closer to the needs of costumers and increase sales accordingly.
-IR2 headquarter is located in Italy, the firm focuses its sells in Italy and it is slowly penetrating the European market share.
+IR2 headquarter is located in Italy, the firm focuses its sells in Italy and it is penetrating the European market share.
 The company’s product portfolio consists of home-cleaning robots. 
 IR2 mainly invests in R&D to develop new technologies for its home robots, which have resulted in increased sales and revenue growth.
 IR2 plans to not only increase penetration of its products in Italy but also promote its existing products in Europe, maintaining the quality and relayability reputation of the brand.
-IR2 is increasing sales thaks to the recent launch on the market on the last X serie line of vacuum cleaner and mop.
+IR2 is increasing sales thanks to the recent launch on the market on the last X serie line of vacuum cleaner and mop.
 
 ## 2. Market Analysis
 
@@ -33,34 +33,39 @@ In 2018, the global RVC market was valued at 6.5 billion U.S. dollars.
 
 The market value is forecast to reach 39.1 billion U.S. dollars by 2026.
 
-The 46% of the next market growth will come from EMEA region, europe included. 
+The 46% of the next market growth will come from EMEA region, Europe included. 
 
-Reasons for market growth:
+The reasons for market growth mainly are:
 - Decreased time for household activities, robots help humans to perform mundane tasks.
 - Improved efficiency and accuracy of robots thanks to the development and evolution of sensors and visualization technologies.
 - The technological advancements in the IoT , smart homes and wireless technologies.
 
 The global market key companies are:
-Dyson Ltd.
-iRobot Corp.
-Samsung Electronics Co. Ltd.
-Neato Robotics
+- Dyson Ltd.
+- iRobot Corp.
+- Samsung Electronics Co. Ltd.
+- Neato Robotics
+- Ecovacs Robotics
+
+IR2 is one of the the largest company in the italian robot cleaning industry, accounting for around 7 percent of the italian market share in 2018.
+
+![italianmarketshare](./italianmarketshare.png) 
 
 ### 2.1 Market Segmentation
 
 The cleaning robot market can be segmented on the basis of product, end-use application and geography. 
 
 On the basis of product type, the cleaning robot market can be categorized into:
-- pool robot
-- window robot
-- floor robot
-- lawn robot. 
+- Pool robot
+- Window robot
+- Floor robot
+- Lawn robot. 
 
 Based on the end-use verticals, the cleaning robot market can be segmented into:
-- residential
-- commercial
-- industrial
-- and healthcare applications. 
+- Residential
+- Commercial
+- Industrial
+- Healthcare 
 
 Furthermore, on the basis of geography, the cleaning robot market is classified into five major regions:
 - North America
@@ -68,7 +73,7 @@ Furthermore, on the basis of geography, the cleaning robot market is classified 
 - Europe
 - Middle East
 - Africa
-- Latin America. 
+- Latin America
 
 North America is the most dominant market for cleaning robots owing to the presence of well-established cleaning robot manufacturers and high labor cost.
 
@@ -87,7 +92,7 @@ The Robot vacuum cleaner market is espected to grow in Europe, the willing to pa
 
 **Social:**
 
-In theese time people lifestyles are completely revolutioned by technology that cohexist and cooperate with humans. People that appreciate the help a product like this can give will never go back to the waste of time and physical effort, can focus on their hobbies and carreers.
+In theese time people lifestyles are completely revolutioned by technology that cohexist and cooperate with humans. People that appreciate the help a product like this can give will never go back to the waste of time and physical effort, can focus on their hobbies and careers.
 
 **Technological:**
 
@@ -96,8 +101,8 @@ The whole world of technology is moving towards Iot and AI, this cannot help but
 ## 3. Competitive Analisys
 
 ### 3.1 Growth Share Matrix
-
-IR2 is positioned in the star, is well positioned in Italian Market and there are confident possibilities to grow thanks to the overall market growth.
+Star:
+IR2 is positioned in the Star, is well positioned in Italian Market and there are confident possibilities to grow thanks to the overall market growth.
 Keep investing in R&D in order to maintaid quality and cutting edge technology.
 
 ### 3.2 Strategic Group
@@ -106,7 +111,7 @@ The common strategy adopted by this group is to develop an high price product th
 
 Dyson is focused on engine quality and power of suction.
 
-IRobot focuses on innovation as always more smart devices, iot features and multiple automatic features.
+IRobot focuses on the innovation of increasingly intelligent devices, multiple automatic and IoT functions.
 
 IR2 differs from the competitors focusing in optimized mapping algoritm, solving enivromental issues feaced by the robot and the design of the products.
 
@@ -121,7 +126,7 @@ IR2 differs from the competitors focusing in optimized mapping algoritm, solving
 - Brand reputation
 - High quality
 - Top design, it is not a product to hide, is something to show to define your status
-- Top sensors, software
+- Top sensors and software
 - Constant commitment to innovation
 - Relationships with leading global robotic institutes
 
@@ -129,21 +134,20 @@ IR2 differs from the competitors focusing in optimized mapping algoritm, solving
 - High price
 - Only italian national store
 - Final price depends also on suppliers costs
-- No own production
 - Low variety of product choices
 - Cost involved in developing the cleaning robots is high
 
 **Opportunities**:
-- Collaboration with more institutes
-- Global market growth
+- Collaboration with European institutes
+- Extra European market growth
 - Start own supplier products production 
 - Growing awareness about the health and benefits of vacuum cleaners
 - Introduction of new robot vacuum concepts
 
 **Threats**:
-- huge amount of competitors
-- imitators of the products
-- customers mental barriers againsts robot
+- Huge amount of well positioned competitors
+- Imitators of the products
+- Customers mental barriers againsts robots
 
 ### 3.5 Porter's Five Forces Model
 
@@ -183,7 +187,7 @@ The critical products suppliers have high power because the firm buys the sensor
 IR2 is very important for those suppliers because its their primary customer. 
 The relationships between the firm and the supplier is well established, both IR2 and the suppliers would most likely not want to end their relationships, also because during the years, they established a partnership.
 
-Other accessory and mechanical standard products will be supplied by other multiple suppliers. This leave a little power to this kind of suppliers, having IR2 the possibility to swap to a different competitor.
+Other accessory and mechanical standard products will be supplied by other multiple suppliers. This leave a little power to this kind of suppliers, having IR2 the possibility to swap to a different cheaper competitor.
 
 ## 4. Customer Segmentation
 
@@ -191,7 +195,6 @@ Customers can be segmetened by those aspects:
 
 **Geographics:**
 - Country: Italy and Europe.
-- City and density: sell in large retail stores located in big cities and most populated areas.
 
 **Demographics:**
 - Age: young adult, adult.
@@ -207,7 +210,7 @@ Customers can be segmetened by those aspects:
 - Benefits: look for a reliable product that avoid to take from them precious time to spend with the family or their hobbies and career, substitute the maid.
 - Usage: daily frequency.
 
-Our customer is an innovative person, well-off, interested in the beauty of the things and in the continuos research of innovation and modernity, looking at the future, never stopping, always on movement, dinamic, focused in his goals.
+One of our product strenghts is the design, is an object that anybody interested in beauty and appearance want to show, is not to hide. We focus our promoting strategy also thinking about the idea of the person you want to be having this kind of product: an innovative person, well being, interested in the beauty of the things and in the continuos research of innovation and modernity, looking at the future, never stopping, always on movement, dinamic, focused in his goals.  
 This product is perfect for any family with medium-high income.
 For up-to-date single workers focused in their career and technology entusiastics.
 
@@ -242,15 +245,27 @@ The S line is the previuos release of the product, has a lower price of the X li
 
 **Ultimate technology**: A unique system of latest generation sensors combined with a specific AI make the IR2 robots the best in terms of orientation and interaction with the surrounding environment, able to generate intelligent and optimized cleaning paths in order to save battery and time, face obstacles and real time mapping recalculation in case of disposition changing. 
 
-**Panik situation recognition**:  the robot can detect the situation in which things are getting bad avoiding to make it worse trying to escape from it and limiting battery waste. Twisted wires in brushes, thin carpets, with fringes or raised corners, insurmountable objects on which competitors' products often jam with no way out.
+**Panik situation recognition (X serie only)**:  The robot can detect the situation in which things are getting bad avoiding to make it worse trying to escape from it and limiting battery waste. Twisted wires in brushes, thin carpets, with fringes or raised corners, insurmountable objects on which competitors' products often jam with no way out.
 
-**No corners left behind**: the functional shape and the external brush make the robot able to reanch any corner.
+**No corners left behind**: The functional shape and the external brush of the vacuum make the robot able to reach any corner.
 
-**Dimensions**: The height of the robot makes it capable to clean under the thinner furniture.
+**Dimensions**: The height of the robot makes it capable to clean under the thinner furniture. 
 
 **Noise**: Silent and not annoying sound.
 
-**Neutron App functions**: virtual walls, interaction vacuum-mop, remote controll, robot feedback and alert message on the status of the robot, users feedback collection.
+**Mochojojo App functions**: 
+- Virtual walls (X serie only)
+- Interaction vacuum-mop (X serie only)
+- Remote controll
+- Robot feedback and alert message on the status of the robot
+- Users feedback collection (Optimized in X serie).
+
+**Recharging dock**: both vacuum cleaner and mop go back to the dock automatically.
+
+**Mop extras**: 
+- A cleaning pad for every kind of floor
+- Wax parquet function. 
+- Higher tank capacity respect to the IRobot Bravaa.
 
 ## 7. Pricing
 
@@ -259,49 +274,48 @@ Our biggest competitors in the high quality and high price range cleaning robot 
 
 Below are reported the prices of the competitors TOP products that offer similar values of features of the IR2 X serie products.
 
-Type| Competitor | Product name | Price
-|---|---|---|---
-Vacuum Cleaner | Dyson Ltd. | Dyson 360 Eye™ | 999.00 EUR 
-Vacuum Cleaner |iRobot Corporation | iRobot Roomba s9+ | 1499.00 EUR 
-Vacuum Cleaner |iRobot Corporation | iRobot Roomba i7+ | 999.00 EUR
-Vacuum Cleaner |Neato Robotics Inc.| Neato d7 | 899.00 EUR
-Mop |IRobot Corporation  | IRobot Braava jet M6 | 699.00 EUR
-Mop |IRobot Corporation  | IRobot Braava 380T | 399.00 EUR
+Type| Competitor | Product name | Price | Strengt | Weakness |
+|---|---|---|---|-|-|
+Vacuum Cleaner | Dyson Ltd. | Dyson 360 Eye™ | 999.00 EUR  | Power: W 160 | Dimensions: too high
+Vacuum Cleaner |iRobot Corporation | iRobot Roomba s9+ | 1499.00 EUR | Automatic dirt disposal, design | Very expensive, loud vacuum, loud dustbin, have to buy replacement disposal bags
+Vacuum Cleaner |iRobot Corporation | iRobot Roomba i7+ | 999.00 EUR | Good navigation, easy to empty| Clean Base is very loud, Cleaning could be more thorough 
+Vacuum Cleaner |Neato Robotics Inc.| Neato d7 | 899.00 EUR | Fast, good cleaning | Loud sounds, get easly stuck
+Mop |IRobot Corporation  | IRobot Braava jet M6 | 699.00 EUR | First on the market | Small tank, small automony
+
 
 ### 7.2 Markup policy
 
 IR2 applyes an average markup of 55% .
 
 Line | Type | Name | Final Cost | Selling Price | 
--|-|-|-|-|
-Line X | Vacuum Cleaner| Dolly X |   756,83  EUR |1099 EUR|  
-Line X | Mop           | Molly X |   567,33  EUR |899 EUR |
-Line S | Vacuum Cleaner| Dolly S |   517,63  EUR |799 EUR |
-Line S | Mop           | Molly S |   427,13  EUR |699 EUR |
+-|-|-|-|-
+Line X | Vacuum Cleaner| Dolly X |   756,83  EUR |1099 EUR|     
+Line X | Mop           | Molly X |   567,33  EUR |899 EUR |     
+Line S | Vacuum Cleaner| Dolly S |   517,63  EUR |799 EUR |     
+Line S | Mop           | Molly S |   427,13  EUR |699 EUR |     
 
 ## 8. Communication
 
-The budget for advertisin and promotion in 2020 is of 180.000 EUR. 
+The budget for advertising and promotion in 2020 will be of 180.000 EUR. 
 
 ### 8.1 Social media promotion
-Active accounts on Facebook and Instagram and Youtube periodically publishing posts.
+Active accounts on Facebook, Instagram and Twitter periodically publishing posts.
 
 Around 1000 EUR per month in social ads.
 
 ### 8.2 Instagram influencers ads: 
-One of our product strenghts is the design, is an object that anybody interested in beauty and appearance want to show, is not to hide. We focus our promoting strategy also thinking about the idea of the person you want to be having this kind of product: an innovative person, well being, interested in the beauty of the things and in the continuos research of innovation and modernity, looking at the future, never stopping, always on movement, dinamic, focused in his goals.  
 
-Because of that tree years ago IR2 started collaborating with some of the most influent people of the web, both in the fashion field, both in the technological and life style field.   
+Tree years ago IR2 started collaborating with some of the most influent people of the web, both in the fashion field, both in the technological and life style field.   
 
-Around 6000 EUR per month in gift and influencer promotion and collaborations.
+Around 5000 EUR per month in gift and influencer promotion and collaborations (#GiftedBy, #Ad, #SponsoredBy).
 
 ### 8.3 Online ads
-Partnership with Google to sponsor IR2 website trhought Google search engine.
+Partnership with Google to sponsor the IR2 website through the Google search engine
 
-Around 8000 EUR per month in google ads.
+Around 8000 EUR per month in Google Ads.
 
 ### 8.4 Tv ads
-In the past TV was one of our main promotion channel spending in specific ads channel. Nowadays we are more and more focusing in the online promotion, putting very modest effort on this channel.
+In the past TV was one of our main promotion channel promoting the product in specific ads channels. Nowadays we are more and more focusing in the online promotion, putting very modest effort on TV channel.
 
 ### 8.5 Promotion on the retail stores
 Retail stores have the possibility to lower the price in sales period, and promote the product trought their channels.
@@ -310,15 +324,15 @@ Retail stores have the possibility to lower the price in sales period, and promo
 Our collaboration with robotic institutes give us the opportunity to release some articles about our software and sensors newest technologies in specialized magazines.
 
 ### 8.7 Innovation fairs and release events
-We always attend innovation and tehcnology fairs held in Berlin, Barcellona, Milan, Tokio to expand our business and partnerships opportunities.
+We always attend at the innovation and technology fairs held in Berlin, Barcelona, ​​Milan and Tokyo to expand our business and partnership opportunities.
 
 ## 9. Monthly order forecast
 
-In the next years the IR2 activity will improve due to the increasing penetration of automation in household appliances and busy lifestyle and rising spending capacity of the population on advanced household equipment’s. 
+In the next years the IR2 activity will improve due to the increasing penetration of automation in household appliances, busy lifestyle and rising spending capacity of the population on advanced household equipment’s. 
 
-The overall sales in 2020 will increase due the growing popularity of the new X product line and thanks to the increasing visibility of the brand in the international market, at the same time Sales of the S serie products will slightly decrease.
+The overall sales in 2020 will increase due the growing popularity of the new X product line and thanks to the increasing visibility of the brand in the international market, at the same time sales of the S serie products will slightly decrease.
 
-### 9.1 2019
+### 9.1 2019 sells
 
 ![2019](./2019.png)
 
@@ -338,7 +352,7 @@ The overall sales in 2020 will increase due the growing popularity of the new X 
 | **December**  | 2821    | 2215    | 1420    | 1138    |
 | **tot**       | 29352   | 22865   | 14034   | 11497   | **77748** |
 
-### 9.2 2020
+### 9.2 2020 forecasted sells
 
 ![2020](./2020.png)
 
@@ -364,5 +378,5 @@ The overall sales in 2020 will increase due the growing popularity of the new X 
 
 |               | 2017  | 2018   | 2019   | 2020   |
 | ------------- | ----- | ------ | ------ | ------ |
-|               | 69913 | 72459  | 77748  | 84093  |
+|**Sales**      | 69913 | 72459  | 77748  | 84093  |
 | **% Growth**  |       | 3,642% | 6,803% | 7,545% |
